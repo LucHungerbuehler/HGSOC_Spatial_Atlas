@@ -1,0 +1,148 @@
+release_path,line,match,status
+scripts\python\preprocessing.py,49,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\organize_visium.py,28,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\run_qc_pipeline.py,31,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\Signature_Weights_prep.py,44,"BASE_DIR       = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\R\ora_bulk_DEGs.R,34,"input_file <- ""C:/Users/luchu/Documents/MSc/Master Thesis/Code/RNA-seq/tt_PEO4-SNAI1-2R_Analysis.xlsx""",needs_config_parameterization
+scripts\R\ora_bulk_DEGs.R,35,"output_dir <- ""D:/HGSOC_Spatial_Atlas/05_analysis_ready/bulk_ora""",needs_config_parameterization
+scripts\R\ora_bulk_DEGs.R,325,"input_file <- ""D:/HGSOC_Spatial_Atlas/05_analysis_ready/bulk_ora/ora_bulk_degs_all.csv""",needs_config_parameterization
+scripts\R\ora_bulk_DEGs.R,326,"output_dir <- ""D:/HGSOC_Spatial_Atlas/05_analysis_ready/bulk_ora""",needs_config_parameterization
+scripts\R\ora_heatmaps.R,26,"ora_file  <- ""D:/HGSOC_Spatial_Atlas/05_analysis_ready/bulk_ora/ora_bulk_degs_all.csv""",needs_config_parameterization
+scripts\R\ora_heatmaps.R,27,"xlsx_file <- ""C:/Users/luchu/Documents/MSc/Master Thesis/Code/RNA-seq/tt_PEO4-SNAI1-2R_Analysis.xlsx""",needs_config_parameterization
+scripts\R\ora_heatmaps.R,28,"sig_file  <- ""D:/HGSOC_Spatial_Atlas/05_analysis_ready/Signature/snai1_acetylation_signature_short.csv""",needs_config_parameterization
+scripts\R\ora_heatmaps.R,29,"output_dir <- ""D:/HGSOC_Spatial_Atlas/05_analysis_ready/bulk_ora""",needs_config_parameterization
+scripts\python\enrichmap_scoring.py,42,"BASE_DIR           = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\signature_robustness_audit.py,86,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\hallmark_correlation_analysis.py,17,D:/HGSOC_Spatial_Atlas/05_analysis_ready/visium/<dataset>/<sample>/<sample>.h5ad,needs_config_parameterization
+scripts\python\hallmark_correlation_analysis.py,18,D:/HGSOC_Spatial_Atlas/03_metadata/clinical_annotations/clinical annotations.xlsx,needs_config_parameterization
+scripts\python\hallmark_correlation_analysis.py,21,D:/HGSOC_Spatial_Atlas/05_analysis_ready/S2a_Hallmark_Correlation/,needs_config_parameterization
+scripts\python\hallmark_correlation_analysis.py,40,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\tumor_only_hallmark_analysis.py,27,D:\HGSOC_Spatial_Atlas\05_analysis_ready\S2b_Tumor_Only_Hallmark_Correlation\,needs_config_parameterization
+scripts\python\tumor_only_hallmark_analysis.py,49,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\celltype_composition_colocalization.py,11,D:/HGSOC_Spatial_Atlas/05_analysis_ready/cross_sample/compiled/,needs_config_parameterization
+scripts\python\celltype_composition_colocalization.py,12,D:/HGSOC_Spatial_Atlas/03_metadata/clinical_annotations/clinical annotations.xlsx,needs_config_parameterization
+scripts\python\celltype_composition_colocalization.py,15,D:/HGSOC_Spatial_Atlas/05_analysis_ready/S2b_CellType_Composition_Correlation/,needs_config_parameterization
+scripts\python\celltype_composition_colocalization.py,32,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\ilr_composition_analysis.py,12,D:/HGSOC_Spatial_Atlas/05_analysis_ready/,needs_config_parameterization
+scripts\python\ilr_composition_analysis.py,34,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\plot_s2b_ilr_predictability_figures.py,22,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready""",needs_config_parameterization
+scripts\python\plot_s2b_ilr_predictability_figures.py,26,"Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\build_s2b_step4_threshold_diagnostics.py,35,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\plot_s2b_step4_ilr_group_positions.py,22,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready""",needs_config_parameterization
+scripts\python\plot_s2b_step4_hallmark_group_positions.py,21,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready""",needs_config_parameterization
+scripts\python\spatial_signature_analysis.py,64,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spagcn_matched_malignancy_domain_analysis.py,26,"VISIUM_DIR = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\visium"")",needs_config_parameterization
+scripts\python\spagcn_matched_malignancy_domain_analysis.py,28,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\cross_sample\spagcn_k5_domain_annotations""",needs_config_parameterization
+scripts\python\spagcn_matched_malignancy_domain_analysis.py,31,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\cross_sample\spagcn_k5_matched_malignancy""",needs_config_parameterization
+scripts\python\plot_sign_figs.py,37,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\R\run_rctd_and_cside.r,38,"input_base  <- ""D:/HGSOC_Spatial_Atlas/scRNA_reference/rctd_inputs""",needs_config_parameterization
+scripts\R\run_rctd_and_cside.r,39,"output_base <- ""D:/HGSOC_Spatial_Atlas/scRNA_reference/rctd_outputs""",needs_config_parameterization
+scripts\R\run_rctd_and_cside.r,40,"ref_path    <- ""D:/HGSOC_Spatial_Atlas/scRNA_reference/GSE184880_annotated.rds""",needs_config_parameterization
+scripts\R\run_rctd_and_cside.r,326,"output_base <- ""D:/HGSOC_Spatial_Atlas/scRNA_reference/rctd_outputs""",needs_config_parameterization
+scripts\R\run_rctd_and_cside.r,349,"output_base <- ""D:/HGSOC_Spatial_Atlas/scRNA_reference/rctd_outputs""",needs_config_parameterization
+scripts\R\run_rctd_and_cside.r,399,"output_base <- ""D:/HGSOC_Spatial_Atlas/scRNA_reference/rctd_outputs""",needs_config_parameterization
+scripts\R\run_rctd_and_cside.r,425,"df <- read.csv(""D:/HGSOC_Spatial_Atlas/scRNA_reference/rctd_outputs/all_samples_2cov_all_results.csv"")",needs_config_parameterization
+scripts\python\build_cside_section25_assets.py,18,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\build_cside_report_ready_outputs.py,21,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\S2e_CSIDE_CellTypeSpecific_DE_Audit"")",needs_config_parameterization
+scripts\python\build_cside_report_ready_outputs.py,34,"SIGNATURE = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\Signature\snai1_acetylation_signature_full.csv"")",needs_config_parameterization
+scripts\python\cside_per_gene_direction_sign_test.py,25,"DEFAULT_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\S2e_CSIDE_CellTypeSpecific_DE_Audit"")",needs_config_parameterization
+scripts\python\cside_setlevel_reproducibility_permutation.py,29,"DEFAULT_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\S2e_CSIDE_CellTypeSpecific_DE_Audit"")",needs_config_parameterization
+scripts\python\cside_audit_sensitivity.py,32,"DATA_ROOT = Path(""D:/HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\cside_audit_sensitivity.py,33,"REPO_ROOT = Path(""C:/Users/luchu/Documents/MSc/Master Thesis/Code/HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\cside_audit_sensitivity.py,837,"input_meta_base <- ""D:/HGSOC_Spatial_Atlas/scRNA_reference/rctd_inputs_qc_sensitivity""",needs_config_parameterization
+scripts\python\cside_audit_sensitivity.py,838,"original_rctd_base <- ""D:/HGSOC_Spatial_Atlas/scRNA_reference/rctd_outputs""",needs_config_parameterization
+scripts\python\cside_audit_sensitivity.py,839,"output_base <- ""D:/HGSOC_Spatial_Atlas/scRNA_reference/rctd_outputs_qc_sensitivity""",needs_config_parameterization
+scripts\python\cside_model1_source_integrity_audit.py,32,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\cside_model1_vs_model2_compact_audit.py,23,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\cside_model1_vs_model2_deep_gene_audit.py,30,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\R\run_cside_qc_sensitivity.r,6,"input_meta_base <- ""D:/HGSOC_Spatial_Atlas/scRNA_reference/rctd_inputs_qc_sensitivity""",needs_config_parameterization
+scripts\R\run_cside_qc_sensitivity.r,7,"original_rctd_base <- ""D:/HGSOC_Spatial_Atlas/scRNA_reference/rctd_outputs""",needs_config_parameterization
+scripts\R\run_cside_qc_sensitivity.r,8,"output_base <- ""D:/HGSOC_Spatial_Atlas/scRNA_reference/rctd_outputs_qc_sensitivity""",needs_config_parameterization
+scripts\python\s3_tumor_cnmf_pipeline.py,53,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\s3_tumor_cnmf_pipeline.py,81,"DOC_PATH = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas\00_documentation\cNMF_postK_strategy_and_rationale.md"")",needs_config_parameterization
+scripts\python\s3_tumor_cnmf_pipeline.py,88,"CNMF_PYTHON = Path(r""C:\Users\luchu\anaconda3\envs\cnmf_env\python.exe"")",needs_config_parameterization
+scripts\python\s3_tumor_cnmf_pipeline.py,89,"CNMF_SCRIPT = Path(r""C:\Users\luchu\anaconda3\envs\cnmf_env\Lib\site-packages\cnmf\cnmf.py"")",needs_config_parameterization
+scripts\python\jaccard_metaprogram_pipeline.py,27,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\jaccard_metaprogram_pipeline.py,85,"r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas""",needs_config_parameterization
+scripts\python\jaccard_metaprogram_pipeline.py,2637,- D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\S3_cNMF_Tumor_Programs\\jaccard_raw_matrices\\inspection_exports_average\\variantB_nonjunk_manual_cut_v2\\recurrence_specificity_diagnostics\\MP_signatures_locked_long.csv,needs_config_parameterization
+scripts\python\jaccard_metaprogram_pipeline.py,2638,- D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\S3_cNMF_Tumor_Programs\\jaccard_raw_matrices\\inspection_exports_average\\variantB_nonjunk_manual_cut_v2\\recurrence_specificity_diagnostics\\MP_signatures_locked_by_group.xlsx,needs_config_parameterization
+scripts\python\jaccard_metaprogram_pipeline.py,2639,- D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\S3_cNMF_Tumor_Programs\\jaccard_raw_matrices\\inspection_exports_average\\variantB_nonjunk_manual_cut_v2\\recurrence_specificity_diagnostics\\MP_cluster_summary.csv,needs_config_parameterization
+scripts\python\jaccard_metaprogram_pipeline.py,2828,- D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\S3_cNMF_Tumor_Programs\\jaccard_raw_matrices\\inspection_exports_average\\variantB_nonjunk_manual_cut_v2\\recurrence_specificity_diagnostics\\MP_signature_ORA_long.csv,needs_config_parameterization
+scripts\python\jaccard_metaprogram_pipeline.py,2829,- D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\S3_cNMF_Tumor_Programs\\jaccard_raw_matrices\\inspection_exports_average\\variantB_nonjunk_manual_cut_v2\\recurrence_specificity_diagnostics\\MP_signature_ORA_by_group.xlsx,needs_config_parameterization
+scripts\python\jaccard_metaprogram_pipeline.py,2875,- D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\S3_cNMF_Tumor_Programs\\jaccard_raw_matrices\\inspection_exports_average\\variantB_nonjunk_manual_cut_v2\\recurrence_specificity_diagnostics\\MP_final_labels.csv,needs_config_parameterization
+scripts\python\jaccard_metaprogram_pipeline.py,2876,- D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\S3_cNMF_Tumor_Programs\\jaccard_raw_matrices\\inspection_exports_average\\variantB_nonjunk_manual_cut_v2\\recurrence_specificity_diagnostics\\MP_cluster_summary_labelled.csv,needs_config_parameterization
+scripts\python\jaccard_metaprogram_pipeline.py,3085,- D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\S3_cNMF_Tumor_Programs\\jaccard_raw_matrices\\inspection_exports_average\\variantB_nonjunk_manual_cut_v2\\native_usage_hh_meta\\mp_usage_native_meta_analysis.csv,needs_config_parameterization
+scripts\python\jaccard_metaprogram_pipeline.py,3086,- D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\S3_cNMF_Tumor_Programs\\jaccard_raw_matrices\\inspection_exports_average\\variantB_nonjunk_manual_cut_v2\\native_usage_hh_meta\\mp_usage_native_per_sample.csv,needs_config_parameterization
+scripts\python\jaccard_metaprogram_pipeline.py,3087,- D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\S3_cNMF_Tumor_Programs\\jaccard_raw_matrices\\inspection_exports_average\\variantB_nonjunk_manual_cut_v2\\native_usage_hh_meta\\mp_usage_native_member_effects.csv,needs_config_parameterization
+scripts\python\score_manual_jaccard_subclusters_enrichmap.py,20,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\snai1ac_program_decomposition_v1.py,39,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\snai1ac_program_decomposition_unsmoothed_uncorrected_v1.py,36,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\compute_cnmf_usage_norm_only_model.py,14,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\S3_cNMF_Tumor_Programs""",needs_config_parameterization
+scripts\python\compute_cnmf_usage_norm_only_model.py,17,"CNMF_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\S3_cNMF_Tumor_Programs"")",needs_config_parameterization
+scripts\python\compute_cnmf_usage_norm_only_model.py,19,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\GASTON_method_v1\04_isodepth_score_alignment""",needs_config_parameterization
+scripts\python\build_cnmf_model_fit_report_examples.py,10,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\S3_cNMF_Tumor_Programs"")",needs_config_parameterization
+scripts\python\plot_cnmf_cohort_cv_r2_model_comparison.py,11,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\S3_cNMF_Tumor_Programs""",needs_config_parameterization
+scripts\python\plot_snai1ac_kstar_univariate_and_model_diagnostics.py,22,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\S3_cNMF_Tumor_Programs"")",needs_config_parameterization
+scripts\python\build_cnmf_univariate_high_corr_table.py,11,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready"")",needs_config_parameterization
+scripts\python\snai1ac_mp_three_arm_correlation.py,25,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\snai1ac_mp_lisa_hotspot_contrasts.py,27,"BASE = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\snai1ac_mp_lisa_hotspot_contrasts.py,60,"""script"": r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas\scripts\spatial_signature_analysis.py"",",needs_config_parameterization
+scripts\python\snai1ac_mp_lisa_hotspot_contrasts.py,61,"""notebook"": r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas\notebooks\spatial_sign_analysis.ipynb"",",needs_config_parameterization
+scripts\python\snai1ac_mp_existing_scores_tumor_filter_correlation.py,17,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\build_cnmf_snai1ac_signature_projection_v1.py,32,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\plot_cnmf_snai1ac_projection_distributions_v1.py,25,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\rerun_final_mp1_8_stale_analyses.py,27,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\rerun_final_mp1_8_stale_analyses.py,28,"PROJECT = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis"")",needs_config_parameterization
+scripts\python\audit_final_mp1_8_ora_with_go.py,14,"PROJECT = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis"")",needs_config_parameterization
+scripts\python\audit_final_mp1_8_ora_with_go.py,15,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\def34_raw_genenmf_pipeline.py,49,"REPO_ROOT = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\def34_raw_genenmf_pipeline.py,50,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\define_snaI1_tme_program_families.py,21,"RUN_DIR = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\20260424_definition3b_definition4_raw_geneNMF"")",needs_config_parameterization
+scripts\python\define_snaI1_tme_program_families.py,25,"EVIDENCE_DIR = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas\00_documentation\kstar_evidence_v0_2"")",needs_config_parameterization
+scripts\python\programme_state_research_synthesis.py,12,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\build_kstar_program_annotation_supplement.py,19,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready""",needs_config_parameterization
+scripts\python\build_kstar_program_annotation_supplement.py,23,"DOCS = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas\00_documentation"")",needs_config_parameterization
+scripts\python\build_kstar_program_annotation_supplement.py,24,"CNMF = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\S3_cNMF_Tumor_Programs"")",needs_config_parameterization
+scripts\python\build_sp6_hotspot_three_contrast_regenerated.py,21,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready"")",needs_config_parameterization
+scripts\python\build_hh_state_family_count_summaries.py,10,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready"")",needs_config_parameterization
+scripts\python\build_hh_state_family_count_composite.py,11,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready"")",needs_config_parameterization
+scripts\python\family_topgene_coherence_plots.py,15,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\regenerate_umap_companion_panels_reference_family.py,14,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\build_hh_state_mp_enrichmap_count_composite.py,22,"ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready"")",needs_config_parameterization
+scripts\python\spottedpy_v2_hotspot_preflight.py,31,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spottedpy_v2_hotspot_preflight.py,33,"CODE_ROOT = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spottedpy_v2_revised_hotspot_preflight.py,53,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spottedpy_v2_revised_hotspot_preflight.py,55,"CODE_ROOT = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spottedpy_v2_distance_design_availability_preflight.py,12,"PROJECT_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\SpottedPy_v2_paper_aligned"")",needs_config_parameterization
+scripts\python\spottedpy_v2_distance_design_availability_preflight.py,27,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\S3_cNMF_Tumor_Programs""",needs_config_parameterization
+scripts\python\spottedpy_v2_distance_preflight_calculate.py,21,"PROJECT_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\SpottedPy_v2_paper_aligned"")",needs_config_parameterization
+scripts\python\spottedpy_v2_distance_spottedpy_native_preflight.py,19,"SPOTTEDPY_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\git_clones\SpottedPy-main"")",needs_config_parameterization
+scripts\python\spottedpy_v2_distance_spottedpy_native_preflight.py,20,"PROJECT_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\SpottedPy_v2_paper_aligned"")",needs_config_parameterization
+scripts\python\spottedpy_v2_distance_full_promotion.py,12,"PROJECT_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\SpottedPy_v2_paper_aligned"")",needs_config_parameterization
+scripts\python\spottedpy_v2_distance_full_promotion.py,13,"CODE_ROOT = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spottedpy_v2_distance_full_promotion.py,37,"Path(r""C:\Users\luchu\Documents\MSc\Master Thesis"")",needs_config_parameterization
+scripts\python\spottedpy_v2_kstar_component_distance_tests_preflight.py,21,"PROJECT_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\SpottedPy_v2_paper_aligned"")",needs_config_parameterization
+scripts\python\spottedpy_v2_consensus_source_neighborhood_preflight.py,27,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spottedpy_v2_consensus_source_neighborhood_preflight.py,29,"CODE_ROOT = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spottedpy_v2_source_group_correlation_contrast_preflight.py,38,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\S3_cNMF_Tumor_Programs""",needs_config_parameterization
+scripts\python\spottedpy_v2_neighborhood_postprocess_ranked_and_source_comparisons.py,20,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\SpottedPy_v2_paper_aligned""",needs_config_parameterization
+scripts\python\spottedpy_v2_neighborhood_postprocess_ranked_and_source_comparisons.py,31,"r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\S3_cNMF_Tumor_Programs""",needs_config_parameterization
+scripts\python\spottedpy_v2_clean_allinone_snai1ac_primary.py,18,"ANALYSIS_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready"")",needs_config_parameterization
+scripts\python\spottedpy_v2_hallmark_spacet_hotspots.py,50,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spottedpy_v2_hallmark_spacet_hotspots.py,52,"CODE_ROOT = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spottedpy_v2_hallmark_scoregenes_neighborhood_preflight.py,37,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spottedpy_v2_hallmark_scoregenes_neighborhood_preflight.py,39,"CODE_ROOT = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spottedpy_v2_cross_sample_neighborhood_summaries.py,19,"RUN_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\SpottedPy_v2_paper_aligned"")",needs_config_parameterization
+scripts\python\spottedpy_v2_visual_qc_contact_sheets.py,29,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\spottedpy_v2_visual_qc_contact_sheets.py,31,"CODE_ROOT = Path(r""C:\Users\luchu\Documents\MSc\Master Thesis\Code\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\gaston_method_aligned_preflight.py,36,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\visium"")",needs_config_parameterization
+scripts\python\gaston_method_aligned_preflight.py,37,"OUT_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\GASTON_method_v1"")",needs_config_parameterization
+scripts\python\gaston_method_aligned_run.py,17,C:\\Users\\luchu\\anaconda3\\envs\\gaston_env\\python.exe scripts\\gaston_method_aligned_run.py features --samples Pt1-1 --layers whole --out-root D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\GASTON_method_v1_smoke,needs_config_parameterization
+scripts\python\gaston_method_aligned_run.py,18,C:\\Users\\luchu\\anaconda3\\envs\\gaston_env\\python.exe scripts\\gaston_method_aligned_run.py train --samples Pt1-1 --layers whole --epochs 50 --restarts 1 --out-root D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\GASTON_method_v1_smoke,needs_config_parameterization
+scripts\python\gaston_method_aligned_run.py,50,"GASTON_REPO = Path(r""D:\HGSOC_Spatial_Atlas\git_clones\GASTON"")",needs_config_parameterization
+scripts\python\gaston_method_aligned_run.py,58,"BASE_DIR = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\visium"")",needs_config_parameterization
+scripts\python\gaston_method_aligned_run.py,59,"OUT_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\GASTON_method_v1"")",needs_config_parameterization
+scripts\python\gaston_build_isodepth_score_alignment.py,30,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\gaston_native_gene_gradient.py,27,"DATA_ROOT = Path(r""D:\HGSOC_Spatial_Atlas"")",needs_config_parameterization
+scripts\python\gaston_build_gradient_identity_review.py,39,"GASTON_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\GASTON_method_v1"")",needs_config_parameterization
+scripts\python\gaston_report_asset_composites.py,34,"GASTON_ROOT = Path(r""D:\HGSOC_Spatial_Atlas\05_analysis_ready\GASTON_method_v1"")",needs_config_parameterization

@@ -1,0 +1,14 @@
+# Example local path configuration for reproducing the analysis.
+# Copy this file to config/paths.yaml and edit paths for your machine.
+
+analysis_ready_root: "D:/HGSOC_Spatial_Atlas/05_analysis_ready"
+visium_root: "D:/HGSOC_Spatial_Atlas/05_analysis_ready/visium"
+scrna_reference_root: "D:/HGSOC_Spatial_Atlas/scRNA_reference"
+output_root: "D:/HGSOC_Spatial_Atlas/05_analysis_ready"
+
+signature_root: "D:/HGSOC_Spatial_Atlas/05_analysis_ready/Signature"
+cside_root: "D:/HGSOC_Spatial_Atlas/05_analysis_ready/S2e_CSIDE_CellTypeSpecific_DE_Audit"
+cnmf_root: "D:/HGSOC_Spatial_Atlas/05_analysis_ready/S3_cNMF_Tumor_Programs"
+spottedpy_root: "D:/HGSOC_Spatial_Atlas/05_analysis_ready/SpottedPy_v2_paper_aligned"
+gaston_root: "D:/HGSOC_Spatial_Atlas/05_analysis_ready/GASTON_method_v1"
+

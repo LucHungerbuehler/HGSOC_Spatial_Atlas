@@ -1,0 +1,30 @@
+# Python/R transient files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.Rhistory
+.RData
+
+# Local configuration
+config/paths.yaml
+.env
+
+# Large analysis objects and generated archives
+*.h5ad
+*.h5
+*.hdf5
+*.rds
+*.RDS
+*.rda
+*.RData
+*.loom
+*.zip
+*.tar
+*.tar.gz
+*.gz
+
+# Generated local outputs
+outputs/
+tmp/
+scratch/
+
