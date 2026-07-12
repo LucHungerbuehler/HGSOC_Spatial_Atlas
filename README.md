@@ -23,6 +23,8 @@ reported outputs were generated, not an accidental omission.
   section.
 - `docs/supplementary_data_index.md`: reader-facing index for Supplementary
   Tables S1-S17.
+- `docs/environment_notes.md`: notes on the multiple Python/R environments used
+  during analysis.
 
 ## What Is Not Included
 
@@ -38,6 +40,8 @@ code archive.
   final thesis pipeline. The final analyses are represented by the curated
   script list in `manifests/methods_to_scripts_manifest.csv`.
 - Absolute paths inside scripts are intentionally retained as provenance.
+- Multiple local software environments were used; the included `environment.yml`
+  is a partial baseline, not a complete lockfile for every script.
 - Scripts were developed over the course of the thesis and some are support,
   sensitivity, audit, or figure-building scripts rather than independent
   primary analyses.
@@ -48,5 +52,6 @@ For the most compact entry points, start with:
 
 1. `docs/supplementary_data_index.md`
 2. `docs/methods_to_scripts_run_order.md`
-3. `manifests/methods_to_scripts_manifest.csv`
-4. `docs/script_release_audit_summary.md`
+3. `docs/environment_notes.md`
+4. `manifests/methods_to_scripts_manifest.csv`
+5. `docs/script_release_audit_summary.md`

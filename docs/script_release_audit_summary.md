@@ -25,3 +25,5 @@ The GitHub-first package now stages 89 scripts. This set was rebuilt after a str
 The package intentionally still contains local absolute paths. `hardcoded_path_audit.csv` currently reports 147 path hits, retained as provenance for the local thesis analysis environment. This GitHub package is a code-availability archive with small derived supplementary data tables, not a fully portable one-command rerun pipeline.
 
 The historical `scripts/python/main.py` development orchestrator is not the controlling entry point for the final thesis analyses. Use `manifests/methods_to_scripts_manifest.csv` and `docs/methods_to_scripts_run_order.md` as the authoritative script map.
+
+Multiple local Python/R environments were used across the thesis analyses. See `docs/environment_notes.md`; the included `environment.yml` is a partial baseline and not a complete lockfile for every script.

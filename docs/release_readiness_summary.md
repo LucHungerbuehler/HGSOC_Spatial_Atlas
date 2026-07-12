@@ -12,6 +12,8 @@ presented as a fully portable one-command reproduction pipeline.
 - Methods-to-scripts manifest, excluded-script decisions, hardcoded-path audit,
   checksums, and supplementary data manifest.
 - Reader-facing supplementary data index.
+- Environment notes documenting that multiple local Python/R environments were
+  used.
 
 ## Safety Checks
 
@@ -31,6 +33,8 @@ presented as a fully portable one-command reproduction pipeline.
 - Absolute paths inside scripts are documented as analysis provenance.
 - The historical `main.py` development orchestrator is explicitly not treated
   as the final thesis pipeline.
+- `environment.yml` is explicitly documented as a partial baseline rather than
+  a complete reproduction lockfile.
 - Large raw and intermediate data objects are intentionally excluded.
 
 ## Remaining Manual Step
