@@ -26,4 +26,4 @@ The package intentionally still contains local absolute paths. `hardcoded_path_a
 
 The historical `scripts/python/main.py` development orchestrator is not the controlling entry point for the final thesis analyses. Use `manifests/methods_to_scripts_manifest.csv` and `docs/methods_to_scripts_run_order.md` as the authoritative script map.
 
-Multiple local Python/R environments were used across the thesis analyses. See `docs/environment_notes.md`; the included `environment.yml` is a partial baseline and not a complete lockfile for every script.
+Multiple local Python/R environments were used across the thesis analyses. See `docs/environment_notes.md` and `envs/` for exported conda environment files for `IMLp1`, `enrichmap_env`, `cnmf_env`, `gaston_env`, and `spottedpy_env`, plus the detected R 4.4.3 package-version inventory.

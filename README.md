@@ -25,6 +25,8 @@ reported outputs were generated, not an accidental omission.
   Tables S1-S17.
 - `docs/environment_notes.md`: notes on the multiple Python/R environments used
   during analysis.
+- `envs/`: exported conda environment files for the local Python environments
+  referenced by the released scripts, plus an R 4.4.3 package-version inventory.
 
 ## What Is Not Included
 
@@ -40,8 +42,9 @@ code archive.
   final thesis pipeline. The final analyses are represented by the curated
   script list in `manifests/methods_to_scripts_manifest.csv`.
 - Absolute paths inside scripts are intentionally retained as provenance.
-- Multiple local software environments were used; the included `environment.yml`
-  is a partial baseline, not a complete lockfile for every script.
+- Multiple local software environments were used. See `envs/` and
+  `docs/environment_notes.md`; the root `environment.yml` is only a lightweight
+  baseline.
 - Scripts were developed over the course of the thesis and some are support,
   sensitivity, audit, or figure-building scripts rather than independent
   primary analyses.
