@@ -1,0 +1,7 @@
+summary_type,model,metric,median,iqr_low,iqr_high,n_samples
+model_cv_r2,composition_only,cv_r2,0.06851382473548862,0.04832082356999173,0.10545225203471281,23
+model_cv_r2,hallmarks_only,cv_r2,0.33787681549540494,0.18952678746594132,0.444346847927272,23
+model_cv_r2,combined,cv_r2,0.3470679156442458,0.19365819278820667,0.44423475660159767,23
+increment,hallmarks_added_over_composition,combined_minus_composition_only,0.2586030743259522,0.15815742584119896,0.3511683187804972,23
+increment,composition_added_over_hallmarks,combined_minus_hallmarks_only,0.0060315388316471985,0.0012901062975721467,0.00890026756042911,23
+increment,composition_elastic_net_minus_prior_ols_anchor,composition_elastic_net_minus_prior_ols_cv_r2,9.202187019127783e-05,-0.00017867469663112798,0.00038413747233015383,23

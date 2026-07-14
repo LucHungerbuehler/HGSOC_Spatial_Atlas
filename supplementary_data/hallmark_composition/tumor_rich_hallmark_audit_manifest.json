@@ -1,0 +1,79 @@
+{
+  "inputs": {
+    "threshold_source": "D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\S2b_CellType_Composition_Correlation\\step4_threshold_high_low_diagnostics\\threshold_10_to_100_positions\\threshold_high_vs_low_cohens_d_per_sample.csv",
+    "clinical_workbook": "D:\\HGSOC_Spatial_Atlas\\03_metadata\\clinical_annotations\\clinical annotations.xlsx"
+  },
+  "dimensions": {
+    "sections": 23,
+    "hallmark_pathways": 50,
+    "thresholds": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9,
+      1.0
+    ],
+    "primary_tests": 500
+  },
+  "rules": {
+    "primary_multiplicity": "Holm across all 50 pathways x 10 thresholds = 500 tests",
+    "strict_direction": "group-median and paired-median contrasts have the same non-zero sign at all 10 thresholds",
+    "near_stable_direction": "group-median sign is fixed at all 10 thresholds and paired-median sign agrees at 9 of 10 thresholds",
+    "crs_thresholds": [
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9
+    ],
+    "crs_metrics": [
+      "HIGH-group mean",
+      "HIGH-minus-LOW mean"
+    ],
+    "crs_multiplicity": "Holm across 50 pathways x 2 metrics = 100 tests"
+  },
+  "results": {
+    "strict_pathways": [
+      "Adipogenesis",
+      "Androgen response",
+      "Estrogen response late",
+      "Hedgehog signaling",
+      "IL2 STAT5 signaling",
+      "Notch signaling",
+      "Oxidative phosphorylation"
+    ],
+    "near_stable_pathways": [
+      "Apical junction",
+      "Apical surface",
+      "E2F targets",
+      "Mitotic spindle",
+      "Peroxisome",
+      "Unfolded protein response"
+    ],
+    "primary_holm_significant_tests": 0,
+    "high_iqr_gt_low_comparisons": 473,
+    "total_dispersion_comparisons": 500,
+    "crs_holm_significant_tests": [
+      {
+        "metric": "high_group_mean_across_thresholds",
+        "pathway_label": "Coagulation",
+        "n_sections": 8,
+        "spearman_rho": 0.944911182523068,
+        "spearman_p": 0.00040087754455410873,
+        "spearman_p_holm_all_100": 0.04008775445541087
+      }
+    ]
+  },
+  "outputs": {
+    "tests": "C:\\Users\\luchu\\Documents\\MSc\\Master Thesis\\release_package_github_first\\github_repo\\supplementary_data\\hallmark_composition\\tumor_rich_hallmark_threshold_tests.csv",
+    "stability": "C:\\Users\\luchu\\Documents\\MSc\\Master Thesis\\release_package_github_first\\github_repo\\supplementary_data\\hallmark_composition\\tumor_rich_hallmark_directional_stability.csv",
+    "dispersion": "C:\\Users\\luchu\\Documents\\MSc\\Master Thesis\\release_package_github_first\\github_repo\\supplementary_data\\hallmark_composition\\tumor_rich_hallmark_dispersion_summary.csv",
+    "crs_values": "C:\\Users\\luchu\\Documents\\MSc\\Master Thesis\\release_package_github_first\\github_repo\\supplementary_data\\hallmark_composition\\tumor_rich_hallmark_crs_sample_values.csv",
+    "crs_screen": "C:\\Users\\luchu\\Documents\\MSc\\Master Thesis\\release_package_github_first\\github_repo\\supplementary_data\\hallmark_composition\\tumor_rich_hallmark_crs_screen.csv"
+  }
+}

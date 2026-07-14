@@ -1,0 +1,147 @@
+[
+  {
+    "balance": "b1",
+    "plus": [
+      "Malignant"
+    ],
+    "minus": [
+      "CAF",
+      "Endothelial",
+      "Plasma",
+      "B cell",
+      "T CD4",
+      "T CD8",
+      "NK",
+      "cDC",
+      "pDC",
+      "Macrophage",
+      "Mast",
+      "Neutrophil"
+    ]
+  },
+  {
+    "balance": "b2",
+    "plus": [
+      "CAF",
+      "Endothelial"
+    ],
+    "minus": [
+      "Plasma",
+      "B cell",
+      "T CD4",
+      "T CD8",
+      "NK",
+      "cDC",
+      "pDC",
+      "Macrophage",
+      "Mast",
+      "Neutrophil"
+    ]
+  },
+  {
+    "balance": "b3",
+    "plus": [
+      "CAF"
+    ],
+    "minus": [
+      "Endothelial"
+    ]
+  },
+  {
+    "balance": "b4",
+    "plus": [
+      "Macrophage",
+      "cDC",
+      "pDC",
+      "Mast",
+      "Neutrophil"
+    ],
+    "minus": [
+      "Plasma",
+      "B cell",
+      "T CD4",
+      "T CD8",
+      "NK"
+    ]
+  },
+  {
+    "balance": "b5",
+    "plus": [
+      "Macrophage",
+      "cDC",
+      "pDC"
+    ],
+    "minus": [
+      "Mast",
+      "Neutrophil"
+    ]
+  },
+  {
+    "balance": "b6",
+    "plus": [
+      "Macrophage"
+    ],
+    "minus": [
+      "cDC",
+      "pDC"
+    ]
+  },
+  {
+    "balance": "b7",
+    "plus": [
+      "cDC"
+    ],
+    "minus": [
+      "pDC"
+    ]
+  },
+  {
+    "balance": "b8",
+    "plus": [
+      "Mast"
+    ],
+    "minus": [
+      "Neutrophil"
+    ]
+  },
+  {
+    "balance": "b9",
+    "plus": [
+      "T CD4",
+      "T CD8",
+      "NK"
+    ],
+    "minus": [
+      "B cell",
+      "Plasma"
+    ]
+  },
+  {
+    "balance": "b10",
+    "plus": [
+      "T CD4",
+      "T CD8"
+    ],
+    "minus": [
+      "NK"
+    ]
+  },
+  {
+    "balance": "b11",
+    "plus": [
+      "T CD4"
+    ],
+    "minus": [
+      "T CD8"
+    ]
+  },
+  {
+    "balance": "b12",
+    "plus": [
+      "B cell"
+    ],
+    "minus": [
+      "Plasma"
+    ]
+  }
+]

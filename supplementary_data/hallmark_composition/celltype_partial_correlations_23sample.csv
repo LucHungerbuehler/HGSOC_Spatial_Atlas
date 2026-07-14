@@ -1,0 +1,323 @@
+cell_type,partial_r,p_value,dataset,sample,dataset_short,sample_label,site_group,brca_group
+Malignant,,,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+CAF,0.1649812917383516,5.162513991153229e-17,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+Endothelial,-0.0453914442908875,0.0219193089974131,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+Plasma,-0.0825849221609184,2.985053117793673e-05,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+B cell,-0.2242972920739417,1.976183637106216e-30,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+T CD4,-0.002271141759043,0.9087554800203596,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+T CD8,0.0138210421937404,0.4855008232330361,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+NK,0.0090799018803631,0.6468035552777942,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+cDC,-0.0008526459910682,0.965680041589946,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+pDC,-0.0051769852846663,0.7939018624116462,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+Macrophage,0.0477151911526211,0.0159867819646585,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+Mast,-0.084298253167371,2.0304337563977348e-05,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+Neutrophil,-0.0983454546945477,6.529608652536892e-07,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+Unidentifiable,-0.1259560402224654,1.7532579583874807e-10,visium/denisenko_2022,SP1,denisenko_2022,denisenko_2022__SP1,primary tumor,unknown
+Malignant,,,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+CAF,-0.0589712431896402,0.0096367662070606,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+Endothelial,0.0828184004355313,0.0002742535938178,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+Plasma,0.0573539443799366,0.011819569475513,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+B cell,0.0584829233451537,0.0102545542024395,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+T CD4,0.0105524839830393,0.643492800207623,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+T CD8,-0.0125822101567464,0.5810518404747206,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+NK,0.0213734757669569,0.3485018786198277,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+cDC,-0.0149608559610709,0.5117045634081818,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+pDC,0.0300807122203056,0.1869785554507844,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+Macrophage,-0.1467453355900224,9.737170374943664e-11,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+Mast,-0.1513528797662862,2.447342949436713e-11,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+Neutrophil,0.0363491395047857,0.1107754096929276,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+Unidentifiable,0.201341051661575,4.584525814580713e-19,visium/denisenko_2022,SP2,denisenko_2022,denisenko_2022__SP2,primary tumor,unknown
+Malignant,,,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+CAF,0.0540435370668191,0.0368624689593284,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+Endothelial,0.1212305347994225,2.651674987814996e-06,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+Plasma,-0.0366974539173039,0.1565471739119152,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+B cell,-0.0982917359074699,0.000143135372778,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+T CD4,-0.0800190347268869,0.0019799792555251,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+T CD8,-0.0106353561373255,0.6814590126829987,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+NK,-0.015883319067942,0.53984978969645,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+cDC,-0.1219318740022653,2.3184500163281167e-06,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+pDC,0.0257810258841379,0.3196587444888414,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+Macrophage,-0.0555363602462157,0.0319505941175279,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+Mast,0.0515848842528469,0.0463496001711813,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+Neutrophil,-0.0501254986129693,0.0528967962734092,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+Unidentifiable,-0.0242221984326001,0.3498039061517854,visium/denisenko_2022,SP3,denisenko_2022,denisenko_2022__SP3,primary tumor,unknown
+Malignant,,,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+CAF,0.1858067399743708,1.6573422289331854e-23,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+Endothelial,0.0645094302514326,0.0005767741912409,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+Plasma,-0.1249167803742927,2.3095915171129145e-11,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+B cell,-0.0630444377992653,0.0007682825201158,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+T CD4,0.0510668662340168,0.0064509496661516,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+T CD8,0.020949143265951,0.2640662619583654,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+NK,0.0129955109303528,0.4884574481804394,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+cDC,-0.0594469733525093,0.0015156567112099,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+pDC,-0.0369725003635552,0.0486644413056811,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+Macrophage,0.0869447823161844,3.426397125683455e-06,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+Mast,-0.0875958699581638,2.8918434747103976e-06,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+Neutrophil,0.0087116426955794,0.6423689128904355,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+Unidentifiable,-0.2473315888677069,6.662695171913448e-41,visium/denisenko_2022,SP4,denisenko_2022,denisenko_2022__SP4,primary tumor,unknown
+Malignant,,,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+CAF,0.0540144998234355,0.0160143740058789,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+Endothelial,0.0690260228443262,0.002074177001214,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+Plasma,0.0091707420479251,0.6827985628118871,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+B cell,0.0364664553777985,0.1040672224136382,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+T CD4,0.0262462367397707,0.2421192008746522,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+T CD8,0.005134301731653,0.8190394426754598,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+NK,-0.0097552243831233,0.6637853510454177,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+cDC,-0.0494512381611454,0.0274650268276678,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+pDC,0.0327034075772982,0.1449454818507232,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+Macrophage,-0.1010621155933735,6.338109033762455e-06,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+Mast,-0.0068194323027557,0.7612267217073403,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+Neutrophil,-0.0192680076002563,0.3905381131243851,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+Unidentifiable,0.0454922407538116,0.0425463177683124,visium/denisenko_2022,SP5,denisenko_2022,denisenko_2022__SP5,primary tumor,unknown
+Malignant,,,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+CAF,0.0019737624467281,0.93409156558802,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+Endothelial,-0.0462883452159062,0.0523236827042166,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+Plasma,-0.1139921020481635,1.6533620531921522e-06,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+B cell,0.0033777803418778,0.8874552361608427,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+T CD4,-0.0227133458721007,0.3412074634943797,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+T CD8,-0.0180747466329028,0.4488282004502982,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+NK,-0.050983297247059,0.032555443857892,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+cDC,0.0651933098587844,0.0062489642910173,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+pDC,0.0021830428404466,0.927121732873047,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+Macrophage,-0.0207082042877208,0.3855368809630951,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+Mast,0.0188479503191084,0.4296594476160515,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+Neutrophil,-0.0145998536414939,0.540704949956897,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+Unidentifiable,0.1317115486680576,2.9783671207614226e-08,visium/denisenko_2022,SP6,denisenko_2022,denisenko_2022__SP6,primary tumor,unknown
+Malignant,,,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+CAF,0.2530619683394849,3.797617147631701e-51,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+Endothelial,0.0317778926667432,0.0630655512938313,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+Plasma,-0.0570537150553651,0.0008407422119015,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+B cell,-0.0493202092786278,0.0039038418631974,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+T CD4,-0.0006980529714045,0.9674396393056952,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+T CD8,0.0454780681224922,0.0077961148109633,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+NK,0.0239947393564134,0.160518397372302,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+cDC,0.0019945631652467,0.9071491650121828,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+pDC,0.0188833859590283,0.2694488802048294,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+Macrophage,0.0408897542782016,0.0167527451980643,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+Mast,-0.0123717263578894,0.4693832961325076,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+Neutrophil,-0.0291944545642058,0.0877192762621405,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+Unidentifiable,-0.2090294295297352,4.29695433589079e-35,visium/denisenko_2022,SP7,denisenko_2022,denisenko_2022__SP7,primary tumor,unknown
+Malignant,,,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+CAF,-0.0161882578290062,0.3728102845625739,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+Endothelial,-0.0067586646674946,0.7098417830954047,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+Plasma,-0.0503598481658893,0.0055359984970984,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+B cell,-0.0132801717023147,0.4647147803818543,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+T CD4,-0.0620946160547426,0.0006225171057709,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+T CD8,-0.0126185222628772,0.4872577301935077,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+NK,0.0084259802380383,0.6427493011537944,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+cDC,-0.1110149402837668,8.769870257110698e-10,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+pDC,0.0004832027488971,0.97877853231408,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+Macrophage,-0.0999354873651333,3.4826982739312564e-08,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+Mast,0.0735261819313642,5.0543091789951535e-05,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+Neutrophil,-0.0002383043492451,0.9895331324963096,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+Unidentifiable,-0.0680654539637408,0.0001758831142967,visium/denisenko_2022,SP8,denisenko_2022,denisenko_2022__SP8,primary tumor,unknown
+Malignant,,,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+CAF,-0.1349677930037239,1.219402797021792e-07,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+Endothelial,0.2685227975600597,1.3442816499511355e-26,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+Plasma,0.0678943722505244,0.0079958098006247,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+B cell,0.144438013226507,1.4651737156071756e-08,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+T CD4,0.0615961923473309,0.0161406147315746,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+T CD8,0.0094274257806147,0.7129783421683693,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+NK,0.0416924286044689,0.1036279783064723,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+cDC,-0.0111783332949142,0.6627035603853862,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+pDC,0.1488132686736702,5.247751100239328e-09,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+Macrophage,0.0397036222959032,0.1211857474200257,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+Mast,0.1563850764147306,8.260587258022108e-10,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+Neutrophil,-0.0288833993357369,0.2596397172096234,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+Unidentifiable,0.1800069689605644,1.4244439985758985e-12,visium/yamamoto_2025,Pt1-1,yamamoto_2025,yamamoto_2025__Pt1-1,secondary site,BRCAwt
+Malignant,,,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+CAF,0.0759309959691312,0.0106355647092197,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+Endothelial,0.0588859524532466,0.0477166574304358,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+Plasma,-0.210696149615838,8.159169729593363e-13,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+B cell,0.0722467068260974,0.0150916977352755,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+T CD4,0.1777137524253952,1.766622430414191e-09,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+T CD8,0.0807461432444029,0.0065885537588598,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+NK,0.0678941290368162,0.0224060403007346,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+cDC,0.1281408017509416,1.542816965367086e-05,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+pDC,0.0007408170929289,0.9801455851758462,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+Macrophage,0.0190540777561599,0.5220785217043338,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+Mast,0.0561915623420373,0.0588724517717484,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+Neutrophil,0.1273186965567652,1.7506798296788453e-05,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+Unidentifiable,0.0099883081028458,0.7372123764854466,visium/yamamoto_2025,Pt1-2,yamamoto_2025,yamamoto_2025__Pt1-2,primary tumor,unknown
+Malignant,,,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+CAF,0.1395474002950912,3.5948885745089323e-10,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+Endothelial,0.0060050342993192,0.7882974260718416,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+Plasma,-0.0053881165256332,0.8096050867976162,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+B cell,0.0287594511382671,0.1983498813723866,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+T CD4,0.0651985943290286,0.0035170762723475,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+T CD8,-0.0475164752548281,0.0335085388623888,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+NK,-0.0112855412705286,0.6137992514662536,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+cDC,-0.0405512451062801,0.0696736806275938,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+pDC,0.0284192712092555,0.2037121775739885,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+Macrophage,-0.0669575458966578,0.0027227321718371,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+Mast,0.0272941108351359,0.2221978928228841,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+Neutrophil,-0.0902050219502879,5.3035910929011146e-05,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+Unidentifiable,0.040606492768776,0.0692937427799517,visium/yamamoto_2025,Pt1-3,yamamoto_2025,yamamoto_2025__Pt1-3,primary tumor,BRCAmut
+Malignant,,,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+CAF,-0.0697372661538819,0.0093766214903051,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+Endothelial,0.1453479219011547,5.414592930327284e-08,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+Plasma,0.0186294805936536,0.4881576313625073,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+B cell,0.0633244204427233,0.0183441354373261,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+T CD4,0.017830674638255,0.50700268327227,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+T CD8,-0.0155736959891802,0.5622418696812036,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+NK,-0.008583510841678,0.7494318300954532,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+cDC,0.0539876508814557,0.0444009587070322,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+pDC,0.076435916609458,0.0043958755073034,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+Macrophage,0.0632404456782532,0.0184996108352744,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+Mast,-0.0105627849311572,0.6942897406725497,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+Neutrophil,0.0791755061592185,0.0031709143037916,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+Unidentifiable,0.0985914737708874,0.0002355865738428,visium/yamamoto_2025,Pt1-4,yamamoto_2025,yamamoto_2025__Pt1-4,secondary site,BRCAwt
+Malignant,,,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+CAF,-0.2704591267666112,4.2996841887812166e-32,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+Endothelial,0.1002758973423467,1.699654109055563e-05,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+Plasma,0.0768789144649074,0.0009874092609615,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+B cell,0.0392679739972438,0.0928206724012669,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+T CD4,0.1362040593981986,4.778591990243983e-09,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+T CD8,0.0356980286860908,0.1265612903525718,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+NK,0.0076206488227384,0.7443871365336432,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+cDC,0.0922459454229772,7.649706751582443e-05,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+pDC,0.2225051623251276,5.3746800145975575e-22,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+Macrophage,0.0108118333687843,0.6436577652784461,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+Mast,0.2232167475963561,3.9472888806884976e-22,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+Neutrophil,0.1939370493860673,5.423661672155201e-17,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+Unidentifiable,0.262048523941674,3.660848044966232e-30,visium/yamamoto_2025,Pt2-1,yamamoto_2025,yamamoto_2025__Pt2-1,secondary site,BRCAwt
+Malignant,,,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+CAF,0.0091620483044935,0.6802308745533503,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+Endothelial,0.0010824277143008,0.961165374321258,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+Plasma,0.027909579542062,0.2092209688285994,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+B cell,0.0883995029412356,6.767760675677791e-05,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+T CD4,-0.0332274243083535,0.1348901614370629,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+T CD8,0.0092370928509182,0.6777582993767135,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+NK,0.0022657657606564,0.9188187288345724,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+cDC,0.0498654725821946,0.0247995158106644,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+pDC,0.0342759554907049,0.1230007545887167,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+Macrophage,-0.0302038663575717,0.1741527516045864,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+Mast,0.0337170949163274,0.1292316978506984,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+Neutrophil,-0.0802221424681642,0.0003009444076651,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+Unidentifiable,0.0705142963594073,0.0014936125255452,visium/yamamoto_2025,Pt2-2,yamamoto_2025,yamamoto_2025__Pt2-2,primary tumor,BRCAwt
+Malignant,,,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+CAF,0.0156095183980415,0.4734926486108132,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+Endothelial,0.0524571696216538,0.0159346348730365,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+Plasma,0.0079530016873102,0.7149658953667636,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+B cell,-0.0259912483395922,0.2326038119864743,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+T CD4,-0.0142874231381501,0.5117667397899954,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+T CD8,-0.0169755074976404,0.4356590809766294,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+NK,0.0230782654575171,0.2892090577488417,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+cDC,0.0865426433067459,6.8518710379172e-05,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+pDC,0.0226776958995739,0.2976632287581783,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+Macrophage,-0.0311297846279446,0.1527811460546669,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+Mast,-0.0408483397314087,0.0605902425512566,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+Neutrophil,0.0699081001657438,0.0013089914823104,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+Unidentifiable,0.0563275798660725,0.0096387134499193,visium/yamamoto_2025,Pt2-3,yamamoto_2025,yamamoto_2025__Pt2-3,primary tumor,BRCAwt
+Malignant,,,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+CAF,0.0386579396962258,0.0270640070928891,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+Endothelial,0.1526487348053158,1.6759673970256791e-18,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+Plasma,0.1009039546242717,7.353713148834826e-09,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+B cell,-0.0984173272684346,1.7061278355954693e-08,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+T CD4,0.0466056141134239,0.0076869161613365,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+T CD8,0.0087474230315843,0.6170538097783878,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+NK,0.0464833834747975,0.0078484101575963,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+cDC,0.1532288851039894,1.2408348130640402e-18,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+pDC,0.0544757886735855,0.0018315957365979,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+Macrophage,0.2061627478368509,1.0141511235227067e-32,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+Mast,0.1329789453104314,2.2532970495896467e-14,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+Neutrophil,0.0083889301630502,0.6315567321768727,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+Unidentifiable,-0.13043122271332,7.007910318182541e-14,visium/yamamoto_2025,Pt2-4,yamamoto_2025,yamamoto_2025__Pt2-4,primary tumor,BRCAwt
+Malignant,,,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+CAF,0.0172797655025508,0.2627675683404161,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+Endothelial,0.0957268700284463,5.044186228137342e-10,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+Plasma,-0.0301705974573158,0.0505114719716274,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+B cell,-0.0260299833137498,0.0915800578029111,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+T CD4,0.0119911387147893,0.4371019642389614,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+T CD8,-0.0444561864070754,0.0039472896479415,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+NK,-0.0135379036099449,0.3802995981653132,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+cDC,-0.0020789405481712,0.8928309885557398,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+pDC,0.0688285665978458,7.983284614411948e-06,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+Macrophage,0.0117876204616587,0.4449231521645891,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+Mast,0.0240341660379963,0.1192986264046945,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+Neutrophil,0.0136107429764413,0.3777414899995949,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+Unidentifiable,-0.1215181662287289,2.6984357175231804e-15,visium/ju_2024,CPS_OV19_LtOV1,ju_2024,ju_2024__CPS_OV19_LtOV1,primary tumor,BRCAmut
+Malignant,,,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+CAF,0.0076216968310236,0.6682485315664038,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+Endothelial,-0.0200172060476541,0.2603244595227919,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+Plasma,-0.0149078228951753,0.4018779653100527,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+B cell,0.0060068518379681,0.7355503753370496,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+T CD4,-0.0144109691966682,0.4177500887178038,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+T CD8,-0.0234166664040898,0.1878940863918062,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+NK,-0.0389125307720547,0.028613394814087,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+cDC,-0.0497903400038979,0.0050895638173607,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+pDC,-0.0201752191879457,0.2565798802428634,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+Macrophage,-0.0650220287222626,0.0002523323703671,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+Mast,0.0094144412063712,0.596556040465661,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+Neutrophil,0.015893040201294,0.3714942668521745,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+Unidentifiable,0.0232149161104322,0.1917273865756067,visium/ju_2024,CPS_OV1RtOV3,ju_2024,ju_2024__CPS_OV1RtOV3,primary tumor,BRCAwt
+Malignant,,,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+CAF,0.1526963171782218,2.711938174994468e-17,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+Endothelial,-0.0450359501880138,0.0130902327339733,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+Plasma,-0.1057118859447671,5.2919994783802725e-09,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+B cell,-0.0386274025268286,0.0333426111113732,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+T CD4,0.0232781620064222,0.1998220222383143,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+T CD8,0.0359365570411878,0.0477486343019855,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+NK,0.0109808894879067,0.5453681207148768,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+cDC,-0.0365164674111647,0.044265833090893,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+pDC,0.0043206621745204,0.8119338822926528,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+Macrophage,-0.0384758942883954,0.0340414175375819,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+Mast,-0.037244051748165,0.0402015067475254,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+Neutrophil,-0.071524599115854,8.020785101931326e-05,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+Unidentifiable,-0.0685720388500733,0.0001564602505828,visium/ju_2024,CPS_OV20RtOV4,ju_2024,ju_2024__CPS_OV20RtOV4,primary tumor,BRCAmut
+Malignant,,,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+CAF,0.1580205465719437,1.95098836001138e-26,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+Endothelial,0.0197962529418626,0.1852936372629882,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+Plasma,-0.1357588719782068,7.144069823520743e-20,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+B cell,-0.1351969251060212,1.0150756169176508e-19,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+T CD4,-0.0207023081806785,0.1659697495461162,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+T CD8,-0.0088836623679455,0.5522527459396622,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+NK,-0.0364117383040056,0.0148098608983579,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+cDC,-0.0769358001589324,2.534163114265924e-07,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+pDC,-0.0345876832771807,0.0206217641930526,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+Macrophage,0.039309865721313,0.0085106883438729,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+Mast,-0.0489682640722351,0.0010444572616123,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+Neutrophil,0.0227803441447436,0.1274202180419584,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+Unidentifiable,-0.2092584881480466,1.6713482177915532e-45,visium/ju_2024,CPS_OV24RTOV4,ju_2024,ju_2024__CPS_OV24RTOV4,primary tumor,BRCAmut
+Malignant,,,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+CAF,-0.0327950467136906,0.0518754869164709,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+Endothelial,0.0263870352145265,0.1177857394284329,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+Plasma,-0.0231916219745519,0.1692345143120119,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+B cell,0.0380805478124951,0.0239635040764116,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+T CD4,0.0472521162159664,0.0050782859961348,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+T CD8,0.0226376063460954,0.1796543012894255,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+NK,0.026618438438416,0.1145984192408594,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+cDC,0.0275310458869601,0.1026849906298801,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+pDC,0.0413623868682018,0.0141888234908508,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+Macrophage,0.0089889553638602,0.5942043500887695,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+Mast,0.0580658066205759,0.0005726365350165,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+Neutrophil,0.0649975106409991,0.0001151429971107,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+Unidentifiable,0.0452137246221458,0.0073397385283496,visium/ju_2024,CPS_OV34RtOV1,ju_2024,ju_2024__CPS_OV34RtOV1,primary tumor,BRCAwt
+Malignant,,,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+CAF,0.0490776644448321,0.0032899146029139,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+Endothelial,0.0063333061083528,0.7046303604592052,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+Plasma,-0.048126537229298,0.0039486468894919,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+B cell,-0.0025811069288747,0.8772235500869189,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+T CD4,-0.0198272033729292,0.2352852625863734,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+T CD8,0.0171249516103896,0.305329294958283,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+NK,-0.0203133157809676,0.2240007546186203,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+cDC,0.0092955802432522,0.5779445605573219,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+pDC,0.0209027056593095,0.2108443695964678,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+Macrophage,-0.0042258675428611,0.8003175461852101,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+Mast,0.0176478200126875,0.2907970644510268,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+Neutrophil,-0.041592499827584,0.012754384908417,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+Unidentifiable,-0.1361674267408227,2.6488006645603554e-16,visium/ju_2024,CPS_OV5LtOV4,ju_2024,ju_2024__CPS_OV5LtOV4,primary tumor,BRCAwt
+Malignant,,,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+CAF,0.0488808413763996,0.0230974318400791,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+Endothelial,0.0298932010697969,0.1648885317867589,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+Plasma,-0.0309911584934385,0.1499095659019038,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+B cell,-0.0020507448328148,0.924112335514083,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+T CD4,-0.0301709867940722,0.1609964389551927,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+T CD8,0.0069891464615773,0.7454519522001944,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+NK,0.0350783349179636,0.1031328749137304,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+cDC,-0.0240888072686886,0.2631141557995047,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+pDC,0.0193967865483956,0.3675648674765674,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+Macrophage,-0.0042929041079685,0.8419486241304136,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+Mast,-0.0125560755066539,0.5597325206651993,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+Neutrophil,-0.0361092896055815,0.0933893090500687,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut
+Unidentifiable,-0.1259369423882219,4.279052006526412e-09,visium/ju_2024,CPS_OV71_1,ju_2024,ju_2024__CPS_OV71_1,primary tumor,BRCAmut

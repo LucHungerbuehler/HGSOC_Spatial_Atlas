@@ -1,0 +1,101 @@
+metric,pathway,pathway_label,thresholds_averaged,n_sections,n_unique_crs_values,spearman_rho,spearman_p,spearman_p_holm_all_100
+high_group_mean_across_thresholds,HALLMARK_ADIPOGENESIS_score,Adipogenesis,0.50;0.60;0.70;0.80;0.90,8,3,0.37796447300922725,0.355917683749582,1.0
+high_group_mean_across_thresholds,HALLMARK_ALLOGRAFT_REJECTION_score,Allograft rejection,0.50;0.60;0.70;0.80;0.90,8,3,0.1259881576697424,0.7662600657593479,1.0
+high_group_mean_across_thresholds,HALLMARK_ANDROGEN_RESPONSE_score,Androgen response,0.50;0.60;0.70;0.80;0.90,8,3,-0.18898223650461363,0.6540046202515182,1.0
+high_group_mean_across_thresholds,HALLMARK_ANGIOGENESIS_score,Angiogenesis,0.50;0.60;0.70;0.80;0.90,8,3,-0.0629940788348712,0.8821982008249135,1.0
+high_group_mean_across_thresholds,HALLMARK_APICAL_JUNCTION_score,Apical junction,0.50;0.60;0.70;0.80;0.90,8,3,-0.5039526306789696,0.20288444914997822,1.0
+high_group_mean_across_thresholds,HALLMARK_APICAL_SURFACE_score,Apical surface,0.50;0.60;0.70;0.80;0.90,8,3,0.2519763153394848,0.5471616124270275,1.0
+high_group_mean_across_thresholds,HALLMARK_APOPTOSIS_score,Apoptosis,0.50;0.60;0.70;0.80;0.90,8,3,0.37796447300922725,0.355917683749582,1.0
+high_group_mean_across_thresholds,HALLMARK_BILE_ACID_METABOLISM_score,Bile acid metabolism,0.50;0.60;0.70;0.80;0.90,8,3,-0.37796447300922725,0.355917683749582,1.0
+high_group_mean_across_thresholds,HALLMARK_CHOLESTEROL_HOMEOSTASIS_score,Cholesterol homeostasis,0.50;0.60;0.70;0.80;0.90,8,3,0.5039526306789696,0.20288444914997822,1.0
+high_group_mean_across_thresholds,HALLMARK_COAGULATION_score,Coagulation,0.50;0.60;0.70;0.80;0.90,8,3,0.944911182523068,0.00040087754455410873,0.04008775445541087
+high_group_mean_across_thresholds,HALLMARK_COMPLEMENT_score,Complement,0.50;0.60;0.70;0.80;0.90,8,3,0.44095855184409843,0.274128124583022,1.0
+high_group_mean_across_thresholds,HALLMARK_DNA_REPAIR_score,DNA repair,0.50;0.60;0.70;0.80;0.90,8,3,0.1259881576697424,0.7662600657593479,1.0
+high_group_mean_across_thresholds,HALLMARK_E2F_TARGETS_score,E2F targets,0.50;0.60;0.70;0.80;0.90,8,3,-0.44095855184409843,0.274128124583022,1.0
+high_group_mean_across_thresholds,HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION_score,EMT,0.50;0.60;0.70;0.80;0.90,8,3,-0.18898223650461363,0.6540046202515182,1.0
+high_group_mean_across_thresholds,HALLMARK_ESTROGEN_RESPONSE_EARLY_score,Estrogen response early,0.50;0.60;0.70;0.80;0.90,8,3,-0.18898223650461363,0.6540046202515182,1.0
+high_group_mean_across_thresholds,HALLMARK_ESTROGEN_RESPONSE_LATE_score,Estrogen response late,0.50;0.60;0.70;0.80;0.90,8,3,0.629940788348712,0.09413276656581646,1.0
+high_group_mean_across_thresholds,HALLMARK_FATTY_ACID_METABOLISM_score,Fatty acid metabolism,0.50;0.60;0.70;0.80;0.90,8,3,0.0629940788348712,0.8821982008249135,1.0
+high_group_mean_across_thresholds,HALLMARK_G2M_CHECKPOINT_score,G2M checkpoint,0.50;0.60;0.70;0.80;0.90,8,3,0.0629940788348712,0.8821982008249135,1.0
+high_group_mean_across_thresholds,HALLMARK_GLYCOLYSIS_score,Glycolysis,0.50;0.60;0.70;0.80;0.90,8,3,0.0629940788348712,0.8821982008249135,1.0
+high_group_mean_across_thresholds,HALLMARK_HEDGEHOG_SIGNALING_score,Hedgehog signaling,0.50;0.60;0.70;0.80;0.90,8,3,0.629940788348712,0.09413276656581646,1.0
+high_group_mean_across_thresholds,HALLMARK_HEME_METABOLISM_score,Heme metabolism,0.50;0.60;0.70;0.80;0.90,8,3,0.2519763153394848,0.5471616124270275,1.0
+high_group_mean_across_thresholds,HALLMARK_HYPOXIA_score,Hypoxia,0.50;0.60;0.70;0.80;0.90,8,3,0.314970394174356,0.4473268744275616,1.0
+high_group_mean_across_thresholds,HALLMARK_IL2_STAT5_SIGNALING_score,IL2 STAT5 signaling,0.50;0.60;0.70;0.80;0.90,8,3,-0.6929348671835832,0.0567363560679634,1.0
+high_group_mean_across_thresholds,HALLMARK_IL6_JAK_STAT3_SIGNALING_score,IL6/JAK/STAT3 signaling,0.50;0.60;0.70;0.80;0.90,8,3,-0.18898223650461363,0.6540046202515182,1.0
+high_group_mean_across_thresholds,HALLMARK_INFLAMMATORY_RESPONSE_score,Inflammatory response,0.50;0.60;0.70;0.80;0.90,8,3,0.44095855184409843,0.274128124583022,1.0
+high_group_mean_across_thresholds,HALLMARK_INTERFERON_ALPHA_RESPONSE_score,Interferon alpha response,0.50;0.60;0.70;0.80;0.90,8,3,0.37796447300922725,0.355917683749582,1.0
+high_group_mean_across_thresholds,HALLMARK_INTERFERON_GAMMA_RESPONSE_score,Interferon gamma response,0.50;0.60;0.70;0.80;0.90,8,3,0.37796447300922725,0.355917683749582,1.0
+high_group_mean_across_thresholds,HALLMARK_KRAS_SIGNALING_DN_score,KRAS signaling DN,0.50;0.60;0.70;0.80;0.90,8,3,0.6929348671835832,0.0567363560679634,1.0
+high_group_mean_across_thresholds,HALLMARK_KRAS_SIGNALING_UP_score,KRAS signaling up,0.50;0.60;0.70;0.80;0.90,8,3,0.8189230248533257,0.012900446687891578,1.0
+high_group_mean_across_thresholds,HALLMARK_MITOTIC_SPINDLE_score,Mitotic spindle,0.50;0.60;0.70;0.80;0.90,8,3,0.8189230248533257,0.012900446687891578,1.0
+high_group_mean_across_thresholds,HALLMARK_MTORC1_SIGNALING_score,mTORC1 signaling,0.50;0.60;0.70;0.80;0.90,8,3,-0.0629940788348712,0.8821982008249135,1.0
+high_group_mean_across_thresholds,HALLMARK_MYC_TARGETS_V1_score,MYC targets V1,0.50;0.60;0.70;0.80;0.90,8,3,-0.5669467095138409,0.14280043904340656,1.0
+high_group_mean_across_thresholds,HALLMARK_MYC_TARGETS_V2_score,MYC targets V2,0.50;0.60;0.70;0.80;0.90,8,3,-0.18898223650461363,0.6540046202515182,1.0
+high_group_mean_across_thresholds,HALLMARK_MYOGENESIS_score,Myogenesis,0.50;0.60;0.70;0.80;0.90,8,3,0.18898223650461363,0.6540046202515182,1.0
+high_group_mean_across_thresholds,HALLMARK_NOTCH_SIGNALING_score,Notch signaling,0.50;0.60;0.70;0.80;0.90,8,3,-0.37796447300922725,0.355917683749582,1.0
+high_group_mean_across_thresholds,HALLMARK_OXIDATIVE_PHOSPHORYLATION_score,Oxidative phosphorylation,0.50;0.60;0.70;0.80;0.90,8,3,-0.1259881576697424,0.7662600657593479,1.0
+high_group_mean_across_thresholds,HALLMARK_P53_PATHWAY_score,P53 pathway,0.50;0.60;0.70;0.80;0.90,8,3,0.44095855184409843,0.274128124583022,1.0
+high_group_mean_across_thresholds,HALLMARK_PANCREAS_BETA_CELLS_score,Pancreas beta cells,0.50;0.60;0.70;0.80;0.90,8,3,0.37796447300922725,0.355917683749582,1.0
+high_group_mean_across_thresholds,HALLMARK_PEROXISOME_score,Peroxisome,0.50;0.60;0.70;0.80;0.90,8,3,0.0629940788348712,0.8821982008249135,1.0
+high_group_mean_across_thresholds,HALLMARK_PI3K_AKT_MTOR_SIGNALING_score,PI3K/AKT/mTOR signaling,0.50;0.60;0.70;0.80;0.90,8,3,0.18898223650461363,0.6540046202515182,1.0
+high_group_mean_across_thresholds,HALLMARK_PROTEIN_SECRETION_score,Protein secretion,0.50;0.60;0.70;0.80;0.90,8,3,-0.0629940788348712,0.8821982008249135,1.0
+high_group_mean_across_thresholds,HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY_score,Reactive oxygen species,0.50;0.60;0.70;0.80;0.90,8,3,0.5039526306789696,0.20288444914997822,1.0
+high_group_mean_across_thresholds,HALLMARK_SPERMATOGENESIS_score,Spermatogenesis,0.50;0.60;0.70;0.80;0.90,8,3,0.0629940788348712,0.8821982008249135,1.0
+high_group_mean_across_thresholds,HALLMARK_TGF_BETA_SIGNALING_score,TGF-beta signaling,0.50;0.60;0.70;0.80;0.90,8,3,-0.0629940788348712,0.8821982008249135,1.0
+high_group_mean_across_thresholds,HALLMARK_TNFA_SIGNALING_VIA_NFKB_score,TNF-alpha via NF-kB,0.50;0.60;0.70;0.80;0.90,8,3,0.5039526306789696,0.20288444914997822,1.0
+high_group_mean_across_thresholds,HALLMARK_UNFOLDED_PROTEIN_RESPONSE_score,Unfolded protein response,0.50;0.60;0.70;0.80;0.90,8,3,-0.37796447300922725,0.355917683749582,1.0
+high_group_mean_across_thresholds,HALLMARK_UV_RESPONSE_DN_score,UV response DN,0.50;0.60;0.70;0.80;0.90,8,3,-0.37796447300922725,0.355917683749582,1.0
+high_group_mean_across_thresholds,HALLMARK_UV_RESPONSE_UP_score,UV response up,0.50;0.60;0.70;0.80;0.90,8,3,0.2519763153394848,0.5471616124270275,1.0
+high_group_mean_across_thresholds,HALLMARK_WNT_BETA_CATENIN_SIGNALING_score,WNT beta catenin signaling,0.50;0.60;0.70;0.80;0.90,8,3,-0.1259881576697424,0.7662600657593479,1.0
+high_group_mean_across_thresholds,HALLMARK_XENOBIOTIC_METABOLISM_score,Xenobiotic metabolism,0.50;0.60;0.70;0.80;0.90,8,3,0.44095855184409843,0.274128124583022,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_ADIPOGENESIS_score,Adipogenesis,0.50;0.60;0.70;0.80;0.90,8,3,0.37796447300922725,0.355917683749582,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_ALLOGRAFT_REJECTION_score,Allograft rejection,0.50;0.60;0.70;0.80;0.90,8,3,0.629940788348712,0.09413276656581646,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_ANDROGEN_RESPONSE_score,Androgen response,0.50;0.60;0.70;0.80;0.90,8,3,0.0629940788348712,0.8821982008249135,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_ANGIOGENESIS_score,Angiogenesis,0.50;0.60;0.70;0.80;0.90,8,3,-0.18898223650461363,0.6540046202515182,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_APICAL_JUNCTION_score,Apical junction,0.50;0.60;0.70;0.80;0.90,8,3,-0.44095855184409843,0.274128124583022,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_APICAL_SURFACE_score,Apical surface,0.50;0.60;0.70;0.80;0.90,8,3,-0.0629940788348712,0.8821982008249135,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_APOPTOSIS_score,Apoptosis,0.50;0.60;0.70;0.80;0.90,8,3,0.314970394174356,0.4473268744275616,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_BILE_ACID_METABOLISM_score,Bile acid metabolism,0.50;0.60;0.70;0.80;0.90,8,3,-0.0629940788348712,0.8821982008249135,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_CHOLESTEROL_HOMEOSTASIS_score,Cholesterol homeostasis,0.50;0.60;0.70;0.80;0.90,8,3,0.629940788348712,0.09413276656581646,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_COAGULATION_score,Coagulation,0.50;0.60;0.70;0.80;0.90,8,3,0.8189230248533257,0.012900446687891578,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_COMPLEMENT_score,Complement,0.50;0.60;0.70;0.80;0.90,8,3,0.5669467095138409,0.14280043904340656,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_DNA_REPAIR_score,DNA repair,0.50;0.60;0.70;0.80;0.90,8,3,-0.37796447300922725,0.355917683749582,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_E2F_TARGETS_score,E2F targets,0.50;0.60;0.70;0.80;0.90,8,3,-0.5039526306789696,0.20288444914997822,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION_score,EMT,0.50;0.60;0.70;0.80;0.90,8,3,-0.44095855184409843,0.274128124583022,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_ESTROGEN_RESPONSE_EARLY_score,Estrogen response early,0.50;0.60;0.70;0.80;0.90,8,3,-0.314970394174356,0.4473268744275616,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_ESTROGEN_RESPONSE_LATE_score,Estrogen response late,0.50;0.60;0.70;0.80;0.90,8,3,0.5669467095138409,0.14280043904340656,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_FATTY_ACID_METABOLISM_score,Fatty acid metabolism,0.50;0.60;0.70;0.80;0.90,8,3,-0.0629940788348712,0.8821982008249135,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_G2M_CHECKPOINT_score,G2M checkpoint,0.50;0.60;0.70;0.80;0.90,8,3,0.629940788348712,0.09413276656581646,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_GLYCOLYSIS_score,Glycolysis,0.50;0.60;0.70;0.80;0.90,8,3,-0.1259881576697424,0.7662600657593479,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_HEDGEHOG_SIGNALING_score,Hedgehog signaling,0.50;0.60;0.70;0.80;0.90,8,3,0.6929348671835832,0.0567363560679634,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_HEME_METABOLISM_score,Heme metabolism,0.50;0.60;0.70;0.80;0.90,8,3,0.44095855184409843,0.274128124583022,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_HYPOXIA_score,Hypoxia,0.50;0.60;0.70;0.80;0.90,8,3,0.0629940788348712,0.8821982008249135,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_IL2_STAT5_SIGNALING_score,IL2 STAT5 signaling,0.50;0.60;0.70;0.80;0.90,8,3,-0.1259881576697424,0.7662600657593479,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_IL6_JAK_STAT3_SIGNALING_score,IL6/JAK/STAT3 signaling,0.50;0.60;0.70;0.80;0.90,8,3,0.0629940788348712,0.8821982008249135,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_INFLAMMATORY_RESPONSE_score,Inflammatory response,0.50;0.60;0.70;0.80;0.90,8,3,0.629940788348712,0.09413276656581646,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_INTERFERON_ALPHA_RESPONSE_score,Interferon alpha response,0.50;0.60;0.70;0.80;0.90,8,3,0.0629940788348712,0.8821982008249135,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_INTERFERON_GAMMA_RESPONSE_score,Interferon gamma response,0.50;0.60;0.70;0.80;0.90,8,3,0.1259881576697424,0.7662600657593479,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_KRAS_SIGNALING_DN_score,KRAS signaling DN,0.50;0.60;0.70;0.80;0.90,8,3,0.314970394174356,0.4473268744275616,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_KRAS_SIGNALING_UP_score,KRAS signaling up,0.50;0.60;0.70;0.80;0.90,8,3,0.6929348671835832,0.0567363560679634,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_MITOTIC_SPINDLE_score,Mitotic spindle,0.50;0.60;0.70;0.80;0.90,8,3,0.8189230248533257,0.012900446687891578,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_MTORC1_SIGNALING_score,mTORC1 signaling,0.50;0.60;0.70;0.80;0.90,8,3,0.1259881576697424,0.7662600657593479,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_MYC_TARGETS_V1_score,MYC targets V1,0.50;0.60;0.70;0.80;0.90,8,3,0.0,1.0,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_MYC_TARGETS_V2_score,MYC targets V2,0.50;0.60;0.70;0.80;0.90,8,3,-0.1259881576697424,0.7662600657593479,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_MYOGENESIS_score,Myogenesis,0.50;0.60;0.70;0.80;0.90,8,3,0.2519763153394848,0.5471616124270275,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_NOTCH_SIGNALING_score,Notch signaling,0.50;0.60;0.70;0.80;0.90,8,3,0.314970394174356,0.4473268744275616,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_OXIDATIVE_PHOSPHORYLATION_score,Oxidative phosphorylation,0.50;0.60;0.70;0.80;0.90,8,3,-0.2519763153394848,0.5471616124270275,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_P53_PATHWAY_score,P53 pathway,0.50;0.60;0.70;0.80;0.90,8,3,0.5039526306789696,0.20288444914997822,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_PANCREAS_BETA_CELLS_score,Pancreas beta cells,0.50;0.60;0.70;0.80;0.90,8,3,0.314970394174356,0.4473268744275616,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_PEROXISOME_score,Peroxisome,0.50;0.60;0.70;0.80;0.90,8,3,0.18898223650461363,0.6540046202515182,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_PI3K_AKT_MTOR_SIGNALING_score,PI3K/AKT/mTOR signaling,0.50;0.60;0.70;0.80;0.90,8,3,-0.2519763153394848,0.5471616124270275,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_PROTEIN_SECRETION_score,Protein secretion,0.50;0.60;0.70;0.80;0.90,8,3,-0.6929348671835832,0.0567363560679634,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY_score,Reactive oxygen species,0.50;0.60;0.70;0.80;0.90,8,3,-0.0629940788348712,0.8821982008249135,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_SPERMATOGENESIS_score,Spermatogenesis,0.50;0.60;0.70;0.80;0.90,8,3,-0.314970394174356,0.4473268744275616,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_TGF_BETA_SIGNALING_score,TGF-beta signaling,0.50;0.60;0.70;0.80;0.90,8,3,-0.314970394174356,0.4473268744275616,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_TNFA_SIGNALING_VIA_NFKB_score,TNF-alpha via NF-kB,0.50;0.60;0.70;0.80;0.90,8,3,0.314970394174356,0.4473268744275616,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_UNFOLDED_PROTEIN_RESPONSE_score,Unfolded protein response,0.50;0.60;0.70;0.80;0.90,8,3,-0.6929348671835832,0.0567363560679634,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_UV_RESPONSE_DN_score,UV response DN,0.50;0.60;0.70;0.80;0.90,8,3,-0.18898223650461363,0.6540046202515182,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_UV_RESPONSE_UP_score,UV response up,0.50;0.60;0.70;0.80;0.90,8,3,0.2519763153394848,0.5471616124270275,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_WNT_BETA_CATENIN_SIGNALING_score,WNT beta catenin signaling,0.50;0.60;0.70;0.80;0.90,8,3,-0.1259881576697424,0.7662600657593479,1.0
+high_minus_low_mean_across_thresholds,HALLMARK_XENOBIOTIC_METABOLISM_score,Xenobiotic metabolism,0.50;0.60;0.70;0.80;0.90,8,3,0.44095855184409843,0.274128124583022,1.0

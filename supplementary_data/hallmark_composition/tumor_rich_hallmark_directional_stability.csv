@@ -1,0 +1,51 @@
+pathway,pathway_label,pathway_family,group_median_positive_thresholds,group_median_negative_thresholds,paired_median_positive_thresholds,paired_median_negative_thresholds,shared_direction_thresholds,direction,strict_10_of_10,near_stable_9_of_10,screen_class
+HALLMARK_ADIPOGENESIS_score,Adipogenesis,epithelial_differentiation_context,10,0,10,0,10,HIGH_gt_LOW,True,False,strict
+HALLMARK_ALLOGRAFT_REJECTION_score,Allograft rejection,immune_interferon,2,8,1,9,0,mixed,False,False,none
+HALLMARK_ANDROGEN_RESPONSE_score,Androgen response,remaining_context,0,10,0,10,10,HIGH_lt_LOW,True,False,strict
+HALLMARK_ANGIOGENESIS_score,Angiogenesis,vascular_stromal_development,5,5,2,8,0,mixed,False,False,none
+HALLMARK_APICAL_JUNCTION_score,Apical junction,epithelial_differentiation_context,0,10,1,9,9,HIGH_lt_LOW,False,True,near_stable
+HALLMARK_APICAL_SURFACE_score,Apical surface,remaining_context,0,10,1,9,9,HIGH_lt_LOW,False,True,near_stable
+HALLMARK_APOPTOSIS_score,Apoptosis,cytokine_stress_fate,5,5,4,6,0,mixed,False,False,none
+HALLMARK_BILE_ACID_METABOLISM_score,Bile acid metabolism,lipid_xenobiotic_metabolism,8,2,4,6,0,mixed,False,False,none
+HALLMARK_CHOLESTEROL_HOMEOSTASIS_score,Cholesterol homeostasis,lipid_xenobiotic_metabolism,1,9,2,8,0,mixed,False,False,none
+HALLMARK_COAGULATION_score,Coagulation,vascular_stromal_development,9,1,7,3,0,mixed,False,False,none
+HALLMARK_COMPLEMENT_score,Complement,immune_interferon,3,7,5,5,0,mixed,False,False,none
+HALLMARK_DNA_REPAIR_score,DNA repair,proliferation_biosynthesis,9,1,9,1,0,mixed,False,False,none
+HALLMARK_E2F_TARGETS_score,E2F targets,proliferation_biosynthesis,10,0,9,1,9,HIGH_gt_LOW,False,True,near_stable
+HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION_score,EMT,emt_inflammatory_signaling,2,8,1,9,0,mixed,False,False,none
+HALLMARK_ESTROGEN_RESPONSE_EARLY_score,Estrogen response early,epithelial_differentiation_context,1,9,3,7,0,mixed,False,False,none
+HALLMARK_ESTROGEN_RESPONSE_LATE_score,Estrogen response late,epithelial_differentiation_context,0,10,0,10,10,HIGH_lt_LOW,True,False,strict
+HALLMARK_FATTY_ACID_METABOLISM_score,Fatty acid metabolism,lipid_xenobiotic_metabolism,3,7,1,9,0,mixed,False,False,none
+HALLMARK_G2M_CHECKPOINT_score,G2M checkpoint,proliferation_biosynthesis,9,1,7,3,0,mixed,False,False,none
+HALLMARK_GLYCOLYSIS_score,Glycolysis,metabolism_stress,6,4,5,5,0,mixed,False,False,none
+HALLMARK_HEDGEHOG_SIGNALING_score,Hedgehog signaling,vascular_stromal_development,0,10,0,10,10,HIGH_lt_LOW,True,False,strict
+HALLMARK_HEME_METABOLISM_score,Heme metabolism,cellular_stress_structure,9,1,6,4,0,mixed,False,False,none
+HALLMARK_HYPOXIA_score,Hypoxia,metabolism_stress,0,10,4,6,6,HIGH_lt_LOW,False,False,none
+HALLMARK_IL2_STAT5_SIGNALING_score,IL2 STAT5 signaling,cytokine_stress_fate,10,0,10,0,10,HIGH_gt_LOW,True,False,strict
+HALLMARK_IL6_JAK_STAT3_SIGNALING_score,IL6/JAK/STAT3 signaling,emt_inflammatory_signaling,2,8,5,5,0,mixed,False,False,none
+HALLMARK_INFLAMMATORY_RESPONSE_score,Inflammatory response,immune_interferon,10,0,5,5,5,HIGH_gt_LOW,False,False,none
+HALLMARK_INTERFERON_ALPHA_RESPONSE_score,Interferon alpha response,immune_interferon,5,5,7,3,0,mixed,False,False,none
+HALLMARK_INTERFERON_GAMMA_RESPONSE_score,Interferon gamma response,immune_interferon,6,4,5,5,0,mixed,False,False,none
+HALLMARK_KRAS_SIGNALING_DN_score,KRAS signaling DN,cytokine_stress_fate,1,9,0,10,0,mixed,False,False,none
+HALLMARK_KRAS_SIGNALING_UP_score,KRAS signaling up,emt_inflammatory_signaling,5,5,5,5,0,mixed,False,False,none
+HALLMARK_MITOTIC_SPINDLE_score,Mitotic spindle,cellular_stress_structure,10,0,9,1,9,HIGH_gt_LOW,False,True,near_stable
+HALLMARK_MTORC1_SIGNALING_score,mTORC1 signaling,proliferation_biosynthesis,9,1,4,6,0,mixed,False,False,none
+HALLMARK_MYC_TARGETS_V1_score,MYC targets V1,proliferation_biosynthesis,5,5,6,4,0,mixed,False,False,none
+HALLMARK_MYC_TARGETS_V2_score,MYC targets V2,remaining_context,9,1,7,3,0,mixed,False,False,none
+HALLMARK_MYOGENESIS_score,Myogenesis,vascular_stromal_development,3,7,3,7,0,mixed,False,False,none
+HALLMARK_NOTCH_SIGNALING_score,Notch signaling,epithelial_differentiation_context,10,0,10,0,10,HIGH_gt_LOW,True,False,strict
+HALLMARK_OXIDATIVE_PHOSPHORYLATION_score,Oxidative phosphorylation,metabolism_stress,10,0,10,0,10,HIGH_gt_LOW,True,False,strict
+HALLMARK_P53_PATHWAY_score,P53 pathway,cytokine_stress_fate,1,9,2,8,0,mixed,False,False,none
+HALLMARK_PANCREAS_BETA_CELLS_score,Pancreas beta cells,remaining_context,9,1,9,1,0,mixed,False,False,none
+HALLMARK_PEROXISOME_score,Peroxisome,lipid_xenobiotic_metabolism,0,10,1,9,9,HIGH_lt_LOW,False,True,near_stable
+HALLMARK_PI3K_AKT_MTOR_SIGNALING_score,PI3K/AKT/mTOR signaling,metabolism_stress,6,4,7,3,0,mixed,False,False,none
+HALLMARK_PROTEIN_SECRETION_score,Protein secretion,cytokine_stress_fate,1,9,0,10,0,mixed,False,False,none
+HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY_score,Reactive oxygen species,metabolism_stress,7,3,7,3,0,mixed,False,False,none
+HALLMARK_SPERMATOGENESIS_score,Spermatogenesis,remaining_context,8,2,5,5,0,mixed,False,False,none
+HALLMARK_TGF_BETA_SIGNALING_score,TGF-beta signaling,emt_inflammatory_signaling,6,4,1,9,0,mixed,False,False,none
+HALLMARK_TNFA_SIGNALING_VIA_NFKB_score,TNF-alpha via NF-kB,emt_inflammatory_signaling,7,3,8,2,0,mixed,False,False,none
+HALLMARK_UNFOLDED_PROTEIN_RESPONSE_score,Unfolded protein response,cellular_stress_structure,0,10,1,9,9,HIGH_lt_LOW,False,True,near_stable
+HALLMARK_UV_RESPONSE_DN_score,UV response DN,cellular_stress_structure,7,3,8,2,0,mixed,False,False,none
+HALLMARK_UV_RESPONSE_UP_score,UV response up,cellular_stress_structure,9,1,5,5,0,mixed,False,False,none
+HALLMARK_WNT_BETA_CATENIN_SIGNALING_score,WNT beta catenin signaling,vascular_stromal_development,4,6,6,4,0,mixed,False,False,none
+HALLMARK_XENOBIOTIC_METABOLISM_score,Xenobiotic metabolism,lipid_xenobiotic_metabolism,10,0,2,8,2,HIGH_gt_LOW,False,False,none
