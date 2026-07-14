@@ -1,0 +1,70 @@
+dataset,sample,feature_method,analysis_tier,selected_k,score_column,score_label,n_spots,observed_vs_fitted_pearson_r,in_sample_r2,n_positive_domain_slopes,n_negative_domain_slopes,n_zero_domain_slopes,both_positive_and_negative_slopes
+denisenko_2022,SP1,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,2549,0.16091097497530998,0.025892341867504665,2,2,0,True
+denisenko_2022,SP1,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,2549,0.07166716318364769,0.005136182278791646,2,2,0,True
+denisenko_2022,SP1,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,2549,0.33188200287257275,0.11014566383071034,2,2,0,True
+denisenko_2022,SP2,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,1926,0.33674557103212854,0.11339757960975427,2,2,0,True
+denisenko_2022,SP2,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,1926,0.1903393681139396,0.03622907505401385,2,2,0,True
+denisenko_2022,SP2,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,1926,0.32815099871994186,0.10768307796089538,2,2,0,True
+denisenko_2022,SP3,pearson,supplementary_pearson,5,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,1492,0.41727663474686466,0.17411978990566834,3,2,0,True
+denisenko_2022,SP3,pearson,supplementary_pearson,5,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,1492,0.24851953394351747,0.06176195875150303,3,2,0,True
+denisenko_2022,SP3,pearson,supplementary_pearson,5,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,1492,0.5860005228289283,0.34339661275577726,3,2,0,True
+denisenko_2022,SP4,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,2844,0.32094746038763566,0.10300727232927298,2,2,0,True
+denisenko_2022,SP4,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,2844,0.18599396428042086,0.034593754748746486,2,2,0,True
+denisenko_2022,SP4,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,2844,0.3397015994243055,0.11539717665143134,2,2,0,True
+denisenko_2022,SP5,glmpca,primary_glmpca,5,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,1988,0.4829829563768558,0.23327253615052812,2,3,0,True
+denisenko_2022,SP5,glmpca,primary_glmpca,5,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,1988,0.317736491110834,0.1009564777834252,2,3,0,True
+denisenko_2022,SP5,glmpca,primary_glmpca,5,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,1988,0.5074194831373882,0.2574745318674141,3,2,0,True
+denisenko_2022,SP6,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,1758,0.4823975340019462,0.23270738081115871,2,2,0,True
+denisenko_2022,SP6,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,1758,0.3061129254577966,0.09370512313233059,2,2,0,True
+denisenko_2022,SP6,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,1758,0.3784784714990913,0.14324595338828838,2,2,0,True
+denisenko_2022,SP7,pearson,supplementary_pearson,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,3422,0.28549301806475946,0.08150626336372513,2,2,0,True
+denisenko_2022,SP7,pearson,supplementary_pearson,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,3422,0.1557106337174863,0.024245801452701388,2,2,0,True
+denisenko_2022,SP7,pearson,supplementary_pearson,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,3422,0.42050691379152866,0.17682606454647598,1,3,0,True
+denisenko_2022,SP8,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,3033,0.48680233176778226,0.23697651021455024,2,2,0,True
+denisenko_2022,SP8,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,3033,0.29035455493864903,0.08430576757362096,2,2,0,True
+denisenko_2022,SP8,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,3033,0.5936244978869796,0.3523900444915685,3,1,0,True
+ju_2024,CPS_OV19_LtOV1,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,4202,0.27450882189651943,0.07535509329901513,2,2,0,True
+ju_2024,CPS_OV19_LtOV1,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,4202,0.13470852699570002,0.018146387245351225,2,2,0,True
+ju_2024,CPS_OV19_LtOV1,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,4202,0.21296833464248105,0.04535551156039175,2,2,0,True
+ju_2024,CPS_OV1RtOV3,glmpca,primary_glmpca,3,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,3164,0.04233406226822882,0.0017921728281304894,3,0,0,False
+ju_2024,CPS_OV1RtOV3,glmpca,primary_glmpca,3,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,3164,0.022066429153808756,0.00048692729560018133,2,1,0,True
+ju_2024,CPS_OV1RtOV3,glmpca,primary_glmpca,3,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,3164,0.16977935677472436,0.028825029986839223,2,1,0,True
+ju_2024,CPS_OV20RtOV4,pearson,supplementary_pearson,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,3035,0.16757990966130576,0.028083026122091348,1,3,0,True
+ju_2024,CPS_OV20RtOV4,pearson,supplementary_pearson,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,3035,0.06526012886548944,0.004258884419540365,1,3,0,True
+ju_2024,CPS_OV20RtOV4,pearson,supplementary_pearson,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,3035,0.2237158842317726,0.050048796857603994,3,1,0,True
+ju_2024,CPS_OV24RTOV4,glmpca,primary_glmpca,5,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,4479,0.386539938775475,0.14941312426854803,3,2,0,True
+ju_2024,CPS_OV24RTOV4,glmpca,primary_glmpca,5,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,4479,0.21276945016013005,0.04527083892144412,3,2,0,True
+ju_2024,CPS_OV24RTOV4,glmpca,primary_glmpca,5,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,4479,0.3161170588765413,0.09992999491275478,2,3,0,True
+ju_2024,CPS_OV34RtOV1,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,3515,0.22791169727680927,0.05194374175559602,2,2,0,True
+ju_2024,CPS_OV34RtOV1,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,3515,0.11796546402962192,0.013915850703724031,2,2,0,True
+ju_2024,CPS_OV34RtOV1,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,3515,0.4563355973308049,0.20824217739126238,3,1,0,True
+ju_2024,CPS_OV5LtOV4,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,3585,0.24948921053729234,0.062244866174521296,4,0,0,False
+ju_2024,CPS_OV5LtOV4,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,3585,0.1284863617457744,0.01650874515466616,4,0,0,False
+ju_2024,CPS_OV5LtOV4,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,3585,0.2532401022703034,0.06413054939787377,4,0,0,False
+ju_2024,CPS_OV71_1,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,2160,0.33847032001248845,0.11456215752935617,2,2,0,True
+ju_2024,CPS_OV71_1,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,2160,0.15496423406565984,0.024013913839556644,2,2,0,True
+ju_2024,CPS_OV71_1,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,2160,0.24114446757559785,0.05815065424231869,3,1,0,True
+yamamoto_2025,Pt1-1,glmpca,primary_glmpca,3,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,1525,0.4237060102950839,0.17952678316017778,2,1,0,True
+yamamoto_2025,Pt1-1,glmpca,primary_glmpca,3,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,1525,0.27855034817202456,0.07759029646675619,2,1,0,True
+yamamoto_2025,Pt1-1,glmpca,primary_glmpca,3,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,1525,0.29933670651480615,0.08960246386713122,2,1,0,True
+yamamoto_2025,Pt1-2,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,1131,0.5858390287306668,0.3432073675840913,2,2,0,True
+yamamoto_2025,Pt1-2,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,1131,0.3979243834111519,0.1583438149131453,2,2,0,True
+yamamoto_2025,Pt1-2,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,1131,0.4709054994124205,0.22175198937686136,2,2,0,True
+yamamoto_2025,Pt1-3,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,2002,0.4699940754414261,0.22089443095004102,4,0,0,False
+yamamoto_2025,Pt1-3,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,2002,0.27370912615150694,0.07491668573862131,4,0,0,False
+yamamoto_2025,Pt1-3,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,2002,0.40988030566224665,0.16800186496977687,4,0,0,False
+yamamoto_2025,Pt1-4,glmpca,primary_glmpca,8,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,1387,0.451446192357983,0.20380366459452104,5,3,0,True
+yamamoto_2025,Pt1-4,glmpca,primary_glmpca,8,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,1387,0.24095647062155104,0.058060020734394424,3,5,0,True
+yamamoto_2025,Pt1-4,glmpca,primary_glmpca,8,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,1387,0.33188147093750414,0.11014531075164158,4,4,0,True
+yamamoto_2025,Pt2-1,pearson,supplementary_pearson,5,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,1833,0.23952912182945313,0.05737420020438899,3,2,0,True
+yamamoto_2025,Pt2-1,pearson,supplementary_pearson,5,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,1833,0.14069175639691198,0.0197941703180482,2,3,0,True
+yamamoto_2025,Pt2-1,pearson,supplementary_pearson,5,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,1833,0.275169856780676,0.07571845008069766,2,3,0,True
+yamamoto_2025,Pt2-2,glmpca,primary_glmpca,5,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,2026,0.19015850263441814,0.03616025612416396,1,4,0,True
+yamamoto_2025,Pt2-2,glmpca,primary_glmpca,5,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,2026,0.09392428290890531,0.008821770919952066,1,4,0,True
+yamamoto_2025,Pt2-2,glmpca,primary_glmpca,5,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,2026,0.40426672202800357,0.16343158253926715,1,4,0,True
+yamamoto_2025,Pt2-3,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,2111,0.36665863220872785,0.13443855257317494,2,2,0,True
+yamamoto_2025,Pt2-3,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,2111,0.1859325990616379,0.03457093139381595,2,2,0,True
+yamamoto_2025,Pt2-3,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,2111,0.2845558776317448,0.08097204749477238,1,3,0,True
+yamamoto_2025,Pt2-4,glmpca,primary_glmpca,4,snai1ac_em_smooth_corrected,SNAI1-ac smooth+GAM,3270,0.33915506228765635,0.11502615627534418,3,1,0,True
+yamamoto_2025,Pt2-4,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_corrected,SNAI1-ac unsmoothed+GAM,3270,0.1782576205732833,0.03177577929244857,3,1,0,True
+yamamoto_2025,Pt2-4,glmpca,primary_glmpca,4,snai1ac_em_unsmoothed_uncorrected,SNAI1-ac unsmoothed no GAM,3270,0.3400985382447377,0.11566701571620752,4,0,0,False

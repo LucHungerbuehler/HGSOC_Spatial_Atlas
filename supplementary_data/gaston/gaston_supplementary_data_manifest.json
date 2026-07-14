@@ -1,0 +1,32 @@
+[
+  {
+    "file": "cohort_relationship_summary.csv",
+    "rows": 460,
+    "size_bytes": 84187,
+    "sha256": "65ce51d8edc216736eef0fcb10b48cda1636387f77c37e7495fdf3191d701197"
+  },
+  {
+    "file": "domainwise_score_fit_summary.csv",
+    "rows": 69,
+    "size_bytes": 11092,
+    "sha256": "93a0be84e47c19792a98d08b0de0a20e0be809b14651f4512e5286ff49ca2f76"
+  },
+  {
+    "file": "gene_gradient_sample_summary.csv",
+    "rows": 23,
+    "size_bytes": 6392,
+    "sha256": "21bc8dfe3d42c40be984de00aaec53427e83f298095ee7a271030ca54ab9821c"
+  },
+  {
+    "file": "gradient_identity_evidence.csv",
+    "rows": 23,
+    "size_bytes": 133035,
+    "sha256": "664bb7ece5efee4d0bcd3c63c20173bbc9a0aa094bf3de7f4abe5a6dc8368c79"
+  },
+  {
+    "file": "signature_gradient_class_summary.csv",
+    "rows": 350,
+    "size_bytes": 245216,
+    "sha256": "d33aa290182894635f132e3481862d7a5ff720f9cfc1fab62cc273bea27d68cc"
+  }
+]

@@ -27,8 +27,11 @@ are recorded in `supplementary_data_manifest.csv`.
 | Supplementary Table S15: metaprogram ORA results with GO audit | `supplementary_data/cnmf/MP_signature_ORA_long_with_GO_audit.csv` |
 | Supplementary Table S16: metaprogram label and recurrent-gene summary | `supplementary_data/cnmf/MP_cluster_summary_labelled.csv` |
 | Supplementary Table S17: GASTON gradient identity evidence | `supplementary_data/gaston/gradient_identity_evidence.csv` |
+| Supplementary Data File: GASTON score--isodepth correlations | `supplementary_data/gaston/cohort_relationship_summary.csv` |
+| Supplementary Data File: GASTON domain-wise fitted-score diagnostics | `supplementary_data/gaston/domainwise_score_fit_summary.csv` |
+| Supplementary Data File: GASTON patient-level gene-gradient summary | `supplementary_data/gaston/gene_gradient_sample_summary.csv` |
+| Supplementary Data File: GASTON signature gradient-class summary | `supplementary_data/gaston/signature_gradient_class_summary.csv` |
 
-Note for Supplementary Table S17: the local draft previously pointed to
-`MP_cluster_summary_labelled.csv` inside the GASTON gradient-review folder. That
-file is not present there; the matching gradient-identity evidence table is
-`gradient_identity_evidence.csv`.
+The GASTON tables were rebuilt from the promoted `GASTON_method_v1` branch with
+`scripts/python/build_gaston_supplementary_data.py`. The JSON manifest in the
+same directory records row counts and checksums for the exported tables.
