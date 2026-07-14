@@ -19,6 +19,7 @@ The package is GitHub-first and does not include raw/public source datasets or l
 
 - `scripts/python/enrichmap_scoring.py` (core, available)
 - `scripts/python/signature_robustness_audit.py` (sensitivity, available)
+- `scripts/python/rerun_production_signature_robustness.py` (report-facing 109/70-gene sensitivity rerun, available)
 
 ## Pathway/composition co-localization
 

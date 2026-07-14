@@ -9,6 +9,7 @@ are recorded in `supplementary_data_manifest.csv`.
 | Supplementary Table S1: full bulk RNA-seq differential-expression workbook | `supplementary_data/signature/tt_PEO4-SNAI1-2R_Analysis.xlsx` |
 | Supplementary Table S2: ORA input DEG list | `supplementary_data/signature/ora_deg_lists.csv` |
 | Supplementary Table S3: ORA Hallmark, GO, and KEGG results | `supplementary_data/signature/ora_bulk_degs_all.csv` |
+| Supplementary Data File: SNAI1-ac spatial robustness | `supplementary_data/signature_robustness/snai1ac_spatial_robustness_data.xlsx` |
 | Supplementary Table S4: Hallmark pathway correlation meta-analysis | `supplementary_data/hallmark_composition/s2a_meta_analysis.csv` |
 | Supplementary Table S5: per-sample Hallmark pathway correlations | `supplementary_data/hallmark_composition/s2a_per_sample_correlations.csv` |
 | Supplementary Table S6: pooled cell-type correlations | `supplementary_data/hallmark_composition/celltype_correlations_summary.csv` |
