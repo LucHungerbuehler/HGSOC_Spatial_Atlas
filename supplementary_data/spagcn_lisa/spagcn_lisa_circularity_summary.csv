@@ -1,0 +1,4 @@
+comparison,n_sections,signature_genes,median_feature_or_marker_genes,median_overlap_genes,median_signature_overlap_pct
+SNAI1_ac vs HVG,23,109.0,2000.0,16.0,14.678899082568808
+SNAI1_ac vs SpaGCN_5_markers,23,109.0,222.0,3.0,2.752293577981652
+SNAI1_ac vs SpaGCN_9_markers,23,109.0,334.0,4.0,3.669724770642202

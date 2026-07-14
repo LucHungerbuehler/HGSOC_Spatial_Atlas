@@ -1,0 +1,68 @@
+{
+  "cohort": {
+    "visium/denisenko_2022": [
+      "SP1",
+      "SP2",
+      "SP3",
+      "SP4",
+      "SP5",
+      "SP6",
+      "SP7",
+      "SP8"
+    ],
+    "visium/yamamoto_2025": [
+      "Pt1-1",
+      "Pt1-2",
+      "Pt1-3",
+      "Pt1-4",
+      "Pt2-1",
+      "Pt2-2",
+      "Pt2-3",
+      "Pt2-4"
+    ],
+    "visium/ju_2024": [
+      "CPS_OV1RtOV3",
+      "CPS_OV5LtOV4",
+      "CPS_OV19_LtOV1",
+      "CPS_OV20RtOV4",
+      "CPS_OV24RTOV4",
+      "CPS_OV34RtOV1",
+      "CPS_OV71_1"
+    ]
+  },
+  "analysis_root": "D:\\HGSOC_Spatial_Atlas\\05_analysis_ready",
+  "compiled_root": "D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\cross_sample\\thesis_23\\compiled",
+  "matched_root": "D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\cross_sample\\spagcn_k5_matched_malignancy",
+  "lisa_definition": {
+    "score_column": "SNAI1-ac_score",
+    "coordinate_columns": [
+      "array_row",
+      "array_col"
+    ],
+    "knn_k": 6,
+    "permutations": 999,
+    "multiple_testing": "Benjamini-Hochberg FDR within section",
+    "alpha": 0.05
+  },
+  "outputs": [
+    "all_circularity_check.csv",
+    "all_hotspot_comparison.csv",
+    "all_lisa_results.csv",
+    "all_spagcn5_composition.csv",
+    "all_spagcn5_snai1ac_stats.csv",
+    "all_spagcn5_variance.csv",
+    "all_spagcn9_composition.csv",
+    "all_spagcn9_snai1ac_stats.csv",
+    "all_spagcn9_variance.csv",
+    "domain_alignment_spagcn5.csv",
+    "spagcn5_domain_annotation_distribution_summary.csv",
+    "spagcn5_matched_malignancy_manifest.json",
+    "spagcn5_matched_pair_summary.csv",
+    "spagcn5_matched_pair_theme_direction_summary.csv",
+    "spagcn5_within_sample_domain_pairs.csv",
+    "spagcn_lisa_audit_manifest.json",
+    "spagcn_lisa_circularity_summary.csv",
+    "spagcn_lisa_cohort_summary.csv",
+    "spagcn_lisa_domain_state_summary.csv"
+  ]
+}

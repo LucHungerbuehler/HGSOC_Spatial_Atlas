@@ -1,0 +1,13 @@
+metric,resolution_k,value,q25,q75,numerator,denominator,sample
+thesis_sections,,23.0,,,,,
+lisa_hh_spots_per_section,,87.0,65.0,142.5,,23,
+lisa_ll_spots_per_section,,90.0,65.5,131.5,,23,
+sections_with_at_least_one_mixed_hh_ll_domain,5,1.0,,,23,23,
+mixed_hh_ll_domains_per_section,5,4.0,4.0,5.0,,23,
+top_snai1ac_and_malignant_domain_agreement,5,0.43478260869565216,,,10,23,
+between_to_within_snai1ac_variance_ratio,5,0.1101618702772574,0.06174399816108925,0.26483320423061973,,23,
+sections_with_at_least_one_mixed_hh_ll_domain,9,1.0,,,23,23,
+mixed_hh_ll_domains_per_section,9,6.0,4.5,7.0,,23,
+top_snai1ac_and_malignant_domain_agreement,9,0.17391304347826086,,,4,23,
+between_to_within_snai1ac_variance_ratio,9,0.2588241054363593,0.1399920510944335,0.3880684969315994,,23,
+maximum_between_to_within_snai1ac_variance_ratio,9,0.8008273245421367,,,,23,SP6

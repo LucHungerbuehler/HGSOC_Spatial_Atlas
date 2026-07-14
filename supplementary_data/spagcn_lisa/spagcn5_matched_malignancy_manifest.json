@@ -1,0 +1,66 @@
+{
+  "k": 5,
+  "cohort": {
+    "denisenko_2022": [
+      "SP1",
+      "SP2",
+      "SP3",
+      "SP4",
+      "SP5",
+      "SP6",
+      "SP7",
+      "SP8"
+    ],
+    "yamamoto_2025": [
+      "Pt1-1",
+      "Pt1-2",
+      "Pt1-3",
+      "Pt1-4",
+      "Pt2-1",
+      "Pt2-2",
+      "Pt2-3",
+      "Pt2-4"
+    ],
+    "ju_2024": [
+      "CPS_OV1RtOV3",
+      "CPS_OV5LtOV4",
+      "CPS_OV19_LtOV1",
+      "CPS_OV20RtOV4",
+      "CPS_OV24RTOV4",
+      "CPS_OV34RtOV1",
+      "CPS_OV71_1"
+    ]
+  },
+  "annotation_dir": "D:\\HGSOC_Spatial_Atlas\\05_analysis_ready\\cross_sample\\spagcn_k5_domain_annotations",
+  "padj_cutoff": 0.05,
+  "malignancy_match_thresholds": [
+    0.05,
+    0.1
+  ],
+  "theme_patterns": {
+    "ECM_stromal": "extracellular matrix|collagen|focal adhesion|epithelial mesenchymal|myogenesis|myofibroblast|fibroblast|stellate|mesenchymal|smoothmuscle",
+    "Translation_ribosome": "translation|ribosom|peptide chain|macromolecule biosynthetic|gene expression|myc targets",
+    "Immune_inflammatory": "immune|interferon|allograft|antigen|b cell|t cell|complement|cytokine|inflammatory|rejection|macrophage|nk|neutrophil",
+    "Vascular_coag_hypoxia": "angiogenesis|hypoxia|coagulation|endothelial|blood vessel|platelet|hemostasis",
+    "Epithelial_tumor": "epithelial|ovary|ovarian|cancer cell|ductal|luminal|cholangiocyte|estrogen|apical",
+    "Metabolic_stress": "oxidative phosphorylation|mtorc1|glycolysis|hypoxia|peroxisome|xenobiotic|fatty acid|cholesterol|unfolded protein|reactive oxygen"
+  },
+  "annotation_libraries": [
+    "MSigDB_Hallmark_2020",
+    "GO_Biological_Process_2023",
+    "Reactome_2022",
+    "KEGG_2021_Human",
+    "WikiPathway_2023_Human",
+    "PanglaoDB_Augmented_2021",
+    "Human_Gene_Atlas"
+  ],
+  "outputs": [
+    "spagcn5_domain_annotation_distribution_summary.csv",
+    "spagcn5_within_sample_domain_pairs.csv",
+    "spagcn5_nearest_malignancy_neighbor_pairs.csv",
+    "spagcn5_matched_pair_summary.csv",
+    "spagcn5_matched_pair_theme_direction_summary.csv",
+    "figures/matched_malignancy_slopeplot_strict.png",
+    "figures/matched_malignancy_delta_scatter.png"
+  ]
+}

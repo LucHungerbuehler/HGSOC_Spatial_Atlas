@@ -1,0 +1,3 @@
+matched_malignancy_threshold,pair_n,sample_n,median_malignant_abs_delta,median_snai1ac_mean_abs_delta,median_snai1ac_median_abs_delta,median_snai1ac_q90_abs_delta,median_hh_frac_abs_delta,median_ll_frac_abs_delta,pairs_with_mean_delta_gt_0_25,pairs_with_mean_delta_gt_0_5,pairs_with_hh_frac_delta_gt_0_1
+0.05,29,18,0.03076072063595861,0.3033117628038912,0.32700593849712895,0.1928145381380597,0.020941927688006446,0.02343090346186321,19,5,2
+0.1,57,23,0.048428117664577,0.3089959734978481,0.32700593849712895,0.2983216091130785,0.028791286228243784,0.024976729754886753,37,14,7
